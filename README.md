@@ -37,9 +37,14 @@
 
 ## Programming
 
-- [Floobits](https://floobits.com/)
+### How to
+
 - [How to collaborate like a pro in VS Code
 ](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
+
+### Tool
+- [Floobits](https://floobits.com/)
+- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 
 ## Education
