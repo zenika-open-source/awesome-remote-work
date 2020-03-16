@@ -22,6 +22,8 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [The manager’s manual for remote work](https://slackhq.com/manager-manual-for-remote-work)
 - [Remote by Basecamp](https://basecamp.com/books/remote)
 - [How to remote on Dev.to](https://dev.to/andydangerous/how-to-remote)
+- [The 4 Step Quick Start Guide to set your company up for remote work in case of quarantine](https://medium.com/@kaionthecouch/the-4-step-quick-start-guide-to-set-your-company-up-for-remote-work-in-case-of-emergencies-587fd015ef18)
+- [Agile work from home tools for large organizations](https://ativo.io/blog/agile-work-from-home-tools-for-large-organizations/)
 
 
 ## Productivity
@@ -30,6 +32,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Slack, platform for team communication](https://slack.com/)
 - [Discord, modern voice & text chat app](https://discordapp.com/)
 - [Miro, online collaborative whiteboarding platform](https://miro.com/)
+- [Daily.co, Ship 1-click video chat faster and smarter](https://www.daily.co/)
 
 
 ## Automation
@@ -44,10 +47,10 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [How to collaborate like a pro in VS Code
 ](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
 
-### Tool
+### Tools
+
 - [Floobits](https://floobits.com/)
 - [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-
 
 ## Education
 
