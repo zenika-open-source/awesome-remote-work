@@ -88,6 +88,7 @@ Organisez et suivez des événements en ligne:
 - Organisez des activités virtuelles conviviales comme des discussions communautaires, des jeux en ligne ou prévoyez tout simplement un temps pour se rencontrer.
 - Mettez en place des événements en ligne sur les créneaux prévus pour vos événements en personne.
 - Prévoyez un événement pour les futures retrouvailles.
+
 Maintenez l'implication en étant conviviaux à distance: 
 - Les événements en ligne sont formidables lorsqu'ils sont axés sur la communauté. Pour que l'expérience en ligne soit réussie, appliquez les mêmes pratiques que celles qui font des événements en personne des moments attrayants.
 - Faites le point auprès des différents participants et encouragez-les à partager leurs réflexions.
