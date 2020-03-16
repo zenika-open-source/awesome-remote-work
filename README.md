@@ -35,6 +35,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Discord, modern voice & text chat app](https://discordapp.com/)
 - [Miro, online collaborative whiteboarding platform](https://miro.com/)
 - [Daily.co, Ship 1-click video chat faster and smarter](https://www.daily.co/)
+- [A Web Whiteboard](https://awwapp.com/)
 
 
 ## Automation
