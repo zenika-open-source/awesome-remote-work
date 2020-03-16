@@ -29,6 +29,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 ## Productivity
 
+- [Novoda tips for remote working tools and practices](https://blog.novoda.com/our-top-tips-for-remote-working-tools-and-practices/)
 - [Remote.tools](https://www.remote.tools/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
 - [Slack, platform for team communication](https://slack.com/)
