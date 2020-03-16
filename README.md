@@ -5,9 +5,10 @@
 ## Contents
 
 - [Culture](#culture)
-- [Productivity](#Productivity)
-- [Education](#Education)
+- [Productivity](#productivity)
+- [Automation](#automation)
 - [Programming](#programming)
+- [Education](#education)
 - [Events](#events)
 
 
@@ -24,9 +25,21 @@
 ## Productivity
 
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
-- [Slack](https://slack.com/)
-- [Discord](https://discordapp.com/)
+- [Slack, platform for team communication](https://slack.com/)
+- [Discord, modern voice & text chat app](https://discordapp.com/)
 - [Miro, online collaborative whiteboarding platform](https://miro.com/)
+
+
+## Automation
+
+- [Geekbot](https://geekbot.com/)
+
+
+## Programming
+
+- [Floobits](https://floobits.com/)
+- [How to collaborate like a pro in VS Code
+](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
 
 
 ## Education
@@ -35,12 +48,6 @@
 - [Virtual Classrooms by Oclock](https://oclock.io/)
 - [GitHub Classroom](https://classroom.github.com/)
 
-## Programming
-
-- [Floobits](https://floobits.com/)
-- [How to collaborate like a pro in VS Code
-](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
-- [Geekbot](https://geekbot.com/)
 
 ## Digital Events
 
