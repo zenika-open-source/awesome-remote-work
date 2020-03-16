@@ -6,6 +6,7 @@
 
 - [Culture](#culture)
 - [Productivité](#productivité)
+- [Solidarité](#solidarité)
 - [Éducation](#éducation)
 - [Conseils](#conseils)
 
@@ -19,15 +20,26 @@
 - [Comment recruter à distance ?](https://workmetender.com/2020/03/12/comment-recruter-a-distance/)
 - [Comment aménager un coin bureau en télétravail ? 10 exemples pour vous inspirer](https://blog.trello.com/fr/outils-t%C3%A9l%C3%A9travail)
 
+
 ## Productivité
 
 - [Télétravail : 15 outils qui facilitent le travail à distance](https://www.blogdumoderateur.com/selection-outils-teletravail/)
 - [8 fonctionnalités impressionnantes de G Suite que Google aimerait que plus de professionnels apprécient](https://www.zdnet.fr/pratique/8-fonctionnalites-impressionnantes-de-g-suite-que-google-aimerait-que-plus-de-professionnels-apprecient-39889587.htm)
 
 
+## Solidarité
+
+- [En première ligne | Soyons présents pour ceux en première ligne](https://enpremiereligne.fr/)
+- [Open solidarity: #tech and #cloud initiative for all companies & institutions mobilized](https://open-solidarity.com/fr/)
+- [Project Open Air](https://www.projectopenair.org/)
+- [Open Source Ventilator Project](https://twitter.com/ColinJ_Keogh/status/1237865545623461891)
+
+
 ## Éducation
 
 - [Comment occuper ses enfants à la maison grâce aux contenus géniaux que l’on peut trouver sur le Net ?](https://taleming.com/occuper-enfants-maison-coronavirus/)
+- [Tout pour réussir ton année scolaire, de la 6ème à la terminale](https://www.schoolmouv.fr/)
+
 
 ## Conseils
 
