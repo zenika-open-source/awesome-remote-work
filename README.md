@@ -2,6 +2,8 @@
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
 
+Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-work/blob/master/README-fr.md)
+
 ## Contents
 
 - [Culture](#culture)
