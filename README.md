@@ -58,6 +58,7 @@
 
 ### How to organize digital events
 
+- [Lessons learned from organising our first virtual conference](https://www.taxjustice.net/2020/03/05/lessons-learned-from-organising-our-first-virtual-conference/)
 - [Best practices for hosting a digital event by Zoom](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/)
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 
