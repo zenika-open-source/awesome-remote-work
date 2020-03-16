@@ -32,6 +32,8 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Novoda tips for remote working tools and practices](https://blog.novoda.com/our-top-tips-for-remote-working-tools-and-practices/)
 - [Remote.tools](https://www.remote.tools/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
+- [Microsoft's solution for COVID-19 is a free Teams subscription for six months
+](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Slack, platform for team communication](https://slack.com/)
 - [Discord, modern voice & text chat app](https://discordapp.com/)
 - [Miro, online collaborative whiteboarding platform](https://miro.com/)
@@ -54,7 +56,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 ### Tools
 
 - [Floobits](https://floobits.com/)
-- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 ## Education
 
