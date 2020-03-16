@@ -63,6 +63,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Online training with Strigo](https://strigo.io/)
 - [Virtual Classrooms by Oclock](https://oclock.io/)
 - [GitHub Classroom](https://classroom.github.com/)
+- [12 Famous Museums And Galleries You Can Visit Virtually From Your Own Couch](https://www.boredpanda.com/famous-museums-offering-virtual-tours/)
 
 
 ## Digital Events
