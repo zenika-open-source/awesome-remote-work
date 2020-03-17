@@ -63,6 +63,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 ## Education
 
+- [Code.org - Learn Computer Science](https://studio.code.org/courses)
 - [Online training with Strigo](https://strigo.io/)
 - [Virtual Classrooms by Oclock](https://oclock.io/)
 - [GitHub Classroom](https://classroom.github.com/)
