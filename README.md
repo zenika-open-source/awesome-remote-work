@@ -11,6 +11,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Automation](#automation)
 - [Programming](#programming)
 - [Education](#education)
+- [Streaming](#streaming)
 - [Events](#events)
 
 
@@ -67,7 +68,14 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [12 Famous Museums And Galleries You Can Visit Virtually From Your Own Couch](https://www.boredpanda.com/famous-museums-offering-virtual-tours/)
 
 
-## Digital Events
+## Streaming
+
+- [Twitch](https://www.twitch.tv/)
+- [Open Broadcaster Software OBS](https://obsproject.com/fr)
+- [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/)
+
+
+## Events
 
 ### How to organize digital events
 
@@ -76,7 +84,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Best practices for hosting a digital event by Zoom](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/)
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 
-### Events
+### Digital Events
 
 - [Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)
 
