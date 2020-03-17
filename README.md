@@ -30,6 +30,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Remote Working Guide by Appsmith](https://www.appsmith.com/posts/remote-working-guide/)
 - [Tips for remote working tools and practices by Novoda](https://blog.novoda.com/our-top-tips-for-remote-working-tools-and-practices/)
 - [Best Practices for Leading Remote Teams by Fellow app](https://fellow.app/blog/2019/best-practices-for-leading-remote-teams/)
+- [Work from Home: Challenges & Tips](https://xeraa.net/talks/work-from-home-challenges-tips/)
 
 ## Productivity
 
@@ -89,5 +90,6 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 ### Digital Events
 
 - [Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)
+- [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
 
 
