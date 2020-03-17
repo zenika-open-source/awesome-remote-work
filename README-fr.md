@@ -30,6 +30,7 @@
 ## Solidarité
 
 - [En première ligne | Soyons présents pour ceux en première ligne](https://enpremiereligne.fr/)
+- [Quand les entreprises se mobilisent pour contrer le coronavirus by Maddyness](https://www.maddyness.com/2020/03/16/entreprises-mobilisation-coronavirus/)
 - [Open solidarity: #tech and #cloud initiative for all companies & institutions mobilized](https://open-solidarity.com/fr/)
 - [Project Open Air](https://www.projectopenair.org/)
 - [Open Source Ventilator Project](https://twitter.com/ColinJ_Keogh/status/1237865545623461891)
