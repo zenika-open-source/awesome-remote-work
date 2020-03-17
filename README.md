@@ -27,7 +27,8 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [The 4 Step Quick Start Guide to set your company up for remote work in case of quarantine on Medium](https://medium.com/@kaionthecouch/the-4-step-quick-start-guide-to-set-your-company-up-for-remote-work-in-case-of-emergencies-587fd015ef18)
 - [Agile work from home tools for large organizations by Ativo](https://ativo.io/blog/agile-work-from-home-tools-for-large-organizations/)
 - [Remote Working Guide by Appsmith](https://www.appsmith.com/posts/remote-working-guide/)
-- [Novoda tips for remote working tools and practices](https://blog.novoda.com/our-top-tips-for-remote-working-tools-and-practices/)
+- [Tips for remote working tools and practices by Novoda](https://blog.novoda.com/our-top-tips-for-remote-working-tools-and-practices/)
+- [Best Practices for Leading Remote Teams by Fellow app](https://fellow.app/blog/2019/best-practices-for-leading-remote-teams/)
 
 ## Productivity
 
