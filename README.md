@@ -70,6 +70,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 ### How to organize digital events
 
+- [How to: Organize a Full-remote Workshop](https://medium.com/@GDGLisbon/how-to-organize-a-full-remote-workshop-6f0c0dc8b141)
 - [Lessons learned from organising our first virtual conference](https://www.taxjustice.net/2020/03/05/lessons-learned-from-organising-our-first-virtual-conference/)
 - [Best practices for hosting a digital event by Zoom](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/)
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
