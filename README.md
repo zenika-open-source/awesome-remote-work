@@ -25,7 +25,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [The 4 Step Quick Start Guide to set your company up for remote work in case of quarantine](https://medium.com/@kaionthecouch/the-4-step-quick-start-guide-to-set-your-company-up-for-remote-work-in-case-of-emergencies-587fd015ef18)
 - [Agile work from home tools for large organizations](https://ativo.io/blog/agile-work-from-home-tools-for-large-organizations/)
 - [Remote work: The Open Source Way](https://dev.to/anajsana95/remote-work-the-open-source-way-i52)
-
+- [Remote Working Guide](https://www.appsmith.com/posts/remote-working-guide/)
 
 ## Productivity
 
