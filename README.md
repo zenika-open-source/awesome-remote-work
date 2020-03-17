@@ -33,6 +33,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 ## Productivity
 
+- [Remote Starter Kit by Hanno](https://www.remotestarterkit.com/)
 - [Remote.tools](https://www.remote.tools/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
 - [Microsoft's solution for COVID-19 is a free Teams subscription for six months
