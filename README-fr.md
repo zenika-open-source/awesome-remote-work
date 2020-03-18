@@ -117,9 +117,11 @@ Maintenez l'implication en étant conviviaux à distance:
 
 ## Virginie Bapaume
 
-[https://twitter.com/virginiebapaume/status/1238547219172728833?s=21](https://twitter.com/virginiebapaume/status/1238547219172728833?s=21)
+[https://twitter.com/virginiebapaume/status/1238547219172728833](https://twitter.com/virginiebapaume/status/1238547219172728833)
 
 ## Cyrielle Eudeline
+
+[https://twitter.com/Cyrielle_Edl/status/1239965461640400896](https://twitter.com/Cyrielle_Edl/status/1239965461640400896)
 
 ![sketchnote](https://pbs.twimg.com/media/ETU-ARyUwAMsSwt?format=jpg&name=large)
 
