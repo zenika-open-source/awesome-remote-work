@@ -121,5 +121,5 @@ Maintenez l'implication en étant conviviaux à distance:
 
 ## Cyrielle Eudeline
 
-![sketchnote](https://twitter.com/Cyrielle_Edl/status/1239965461640400896/photo/1)
+![sketchnote](https://pbs.twimg.com/media/ETU-ARyUwAMsSwt?format=jpg&name=large)
 
