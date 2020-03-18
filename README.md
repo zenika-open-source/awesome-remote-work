@@ -17,11 +17,11 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 ## Culture
 
+- [Remote by Basecamp](https://basecamp.com/books/remote)
 - [How to Build Culture in a Remote Team by Zapier](https://zapier.com/learn/remote-work/how-build-culture-remote-team/)
 - [All Remote from GitLab](https://about.gitlab.com/company/culture/all-remote/)
 - [What is Remote Work? by Buffer](https://open.buffer.com/remote-work/)
 - [The manager’s manual for remote work by Slack](https://slackhq.com/manager-manual-for-remote-work)
-- [Remote by Basecamp](https://basecamp.com/books/remote)
 - [How to remote on Dev.to](https://dev.to/andydangerous/how-to-remote)
 - [Remote Work Tips for Teams on Dev.to](https://dev.to/laurieontech/remote-work-tips-for-teams-51ap)
 - [Remote work: The Open Source Way on Dev.to](https://dev.to/anajsana95/remote-work-the-open-source-way-i52)
@@ -31,6 +31,9 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Tips for remote working tools and practices by Novoda](https://blog.novoda.com/our-top-tips-for-remote-working-tools-and-practices/)
 - [Best Practices for Leading Remote Teams by Fellow app](https://fellow.app/blog/2019/best-practices-for-leading-remote-teams/)
 - [Work from Home: Challenges & Tips](https://xeraa.net/talks/work-from-home-challenges-tips/)
+- [A Curated List of the Best Remote Work Resources by Loom](https://www.loom.com/blog/best-remote-work-resources)
+- [5 tips for ramping up on remote work in a hurry by Atlassian](https://www.atlassian.com/blog/teamwork/remote-work-productivity)
+- [Remotely Managing by Trello](https://medium.com/remotely-managing)
 
 ## Productivity
 
