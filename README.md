@@ -18,6 +18,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 ## Culture
 
 - [Remote by Basecamp](https://basecamp.com/books/remote)
+- [The Remote Work Playbook by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook)
 - [How to Build Culture in a Remote Team by Zapier](https://zapier.com/learn/remote-work/how-build-culture-remote-team/)
 - [All Remote from GitLab](https://about.gitlab.com/company/culture/all-remote/)
 - [What is Remote Work? by Buffer](https://open.buffer.com/remote-work/)
