@@ -37,6 +37,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 ## Productivity
 
+- [Use Together - Remote Pair Programming and Team Collaboration tool.](https://www.use-together.com/fr/)
 - [Remote Starter Kit by Hanno](https://www.remotestarterkit.com/)
 - [Remote.tools](https://www.remote.tools/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
