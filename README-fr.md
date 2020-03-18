@@ -55,8 +55,8 @@ C’est un talk sur « 🏡 Full-remote : Comment réussir à travailler en équ
 
 En espérant que ça puisse vous aider ! 🙂
 
-
 ### Margerie Guilliot
+
 Trucs et astuces appris en 2 1/2 ans de travail à distance
 
 :loudspeaker: Les réunions ou les conversations orales
@@ -98,7 +98,6 @@ En espérant que ça aide.
 
 [Toutes les informations sont ici.](https://threadreaderapp.com/thread/1238200706844233728.html)
 
-
 ## David Siegel
 
 Organisez et suivez des événements en ligne:
@@ -120,4 +119,7 @@ Maintenez l'implication en étant conviviaux à distance:
 
 [https://twitter.com/virginiebapaume/status/1238547219172728833?s=21](https://twitter.com/virginiebapaume/status/1238547219172728833?s=21)
 
+## Cyrielle Eudeline
+
+![sketchnote](https://twitter.com/Cyrielle_Edl/status/1239965461640400896/photo/1)
 
