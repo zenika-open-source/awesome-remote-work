@@ -4,6 +4,9 @@
 
 Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-work/blob/master/README-fr.md)
 
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
+
+
 ## Contents
 
 - [Culture](#culture)
@@ -112,3 +115,6 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
 
 
+## Remote Jobs
+
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
