@@ -92,6 +92,14 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Best practices for hosting a digital event by Zoom](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/)
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 
+### Tools to set-up digital events
+- [HeySummit](https://heysummit.com/)
+- [Remo](https://remo.co/)
+- [In the Ether](https://intheether.xyz/)
+- [Crow Cast](https://www.crowdcast.io/)
+- [Konf](https://konf.co/)
+- [Hopin](https://hopin.to/)
+
 ### Digital Events
 
 - [Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)
