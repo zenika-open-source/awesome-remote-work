@@ -16,6 +16,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Education](#education)
 - [Streaming](#streaming)
 - [Events](#events)
+- [Jobs](#jobs)
 
 
 ## Culture
@@ -115,6 +116,6 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
 
 
-## Remote Jobs
+## Jobs
 
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
