@@ -50,6 +50,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Miro, online collaborative whiteboarding platform](https://miro.com/)
 - [Daily.co, Ship 1-click video chat faster and smarter](https://www.daily.co/)
 - [Metro Retro, A retrospective app for teams together and around the world](https://metroretro.io/)
+- [PlanITpoker, Make Estimating Agile Projects Accurate & Fun](https://www.planitpoker.com/)
 - [A Web Whiteboard](https://awwapp.com/)
 - [The Collaboration Superpowers](https://www.collaborationsuperpowers.com/remote-resources/)
 
