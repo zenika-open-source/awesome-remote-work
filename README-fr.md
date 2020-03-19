@@ -35,6 +35,8 @@
 - [Open solidarity: #tech and #cloud initiative for all companies & institutions mobilized](https://open-solidarity.com/fr/)
 - [Project Open Air](https://www.projectopenair.org/)
 - [Open Source Ventilator Project](https://twitter.com/ColinJ_Keogh/status/1237865545623461891)
+- [Makers for Life](https://docs.google.com/document/d/1l1nt0o93kdfcmPygp1k6NYKrwIb_uN01kcBAfovy2dE/edit#)
+- [NanoHack, un masque imprimé en 3D et open-source contre le Covid-19](https://www.3dnatives.com/nanohack-masque-covid-19-180320203/)
 
 
 ## Éducation
