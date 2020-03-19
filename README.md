@@ -36,6 +36,8 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [5 tips for ramping up on remote work in a hurry by Atlassian](https://www.atlassian.com/blog/teamwork/remote-work-productivity)
 - [Remotely Managing by Trello](https://medium.com/remotely-managing)
 - [15 Questions About Remote Work, Answered by Harvard Business Review](https://hbr.org/2020/03/15-questions-about-remote-work-answered)
+- [How to do effective video calls by Martin Fowler](https://martinfowler.com/articles/effective-video-calls.html)
+
 
 ## Productivity
 
