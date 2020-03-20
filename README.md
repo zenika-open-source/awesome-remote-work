@@ -41,6 +41,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Remotely Managing by Trello](https://medium.com/remotely-managing)
 - [15 Questions About Remote Work, Answered by Harvard Business Review](https://hbr.org/2020/03/15-questions-about-remote-work-answered)
 - [How to do effective video calls by Martin Fowler](https://martinfowler.com/articles/effective-video-calls.html)
+- [The Ultimate Guide to Remote Design Sprints](https://modus.medium.com/https-medium-com-justmadco-ultimate-guide-to-remote-design-sprints-78d180ca61db)
 
 
 ## Productivity
