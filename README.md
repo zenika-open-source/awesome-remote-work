@@ -104,6 +104,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 
 ### Tools to set-up digital events
+
 - [HeySummit](https://heysummit.com/)
 - [Remo](https://remo.co/)
 - [In the Ether](https://intheether.xyz/)
@@ -122,3 +123,5 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [Remote Work](https://github.com/fjbelchi/RemoteWork)
+- [Remote Working - What it is, what it can be for your team and how to achieve it](https://github.com/msg-DAVID-GmbH/RemoteWorking)
