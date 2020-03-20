@@ -121,3 +121,4 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 ## Jobs
 
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
