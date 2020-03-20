@@ -115,6 +115,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 
 - [Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)
 - [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
+- [JS VidCon](https://jsvidcon.com/)
 
 
 ## Jobs
