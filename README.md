@@ -91,6 +91,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [Twitch](https://www.twitch.tv/)
 - [Open Broadcaster Software OBS](https://obsproject.com/fr)
 - [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/)
+- [Elgato Game Capture](https://www.elgato.com/fr)
 
 
 ## Events
