@@ -25,6 +25,7 @@
 
 - [Télétravail : 15 outils qui facilitent le travail à distance](https://www.blogdumoderateur.com/selection-outils-teletravail/)
 - [8 fonctionnalités impressionnantes de G Suite que Google aimerait que plus de professionnels apprécient](https://www.zdnet.fr/pratique/8-fonctionnalites-impressionnantes-de-g-suite-que-google-aimerait-que-plus-de-professionnels-apprecient-39889587.htm)
+- [S'organiser pour télétravailler](https://formateurs.animacoop.net/teletravail/?PagePrincipale)
 
 
 ## Solidarité
