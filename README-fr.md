@@ -30,6 +30,7 @@
 
 ## Solidarité
 
+- [COVID-19 Response Projects, 3D printable COVID-19 DIY respirator](https://github.com/covid-response-projects)
 - [En première ligne | Soyons présents pour ceux en première ligne](https://enpremiereligne.fr/)
 - [Quand les entreprises se mobilisent pour contrer le coronavirus by Maddyness](https://www.maddyness.com/2020/03/16/entreprises-mobilisation-coronavirus/)
 - [Scaleway, Ensemble contre le Covid avec Jitsi](https://ensemble.scaleway.com/)
