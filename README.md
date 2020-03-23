@@ -60,6 +60,7 @@ Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-wo
 - [PlanITpoker, Make Estimating Agile Projects Accurate & Fun](https://www.planitpoker.com/)
 - [A Web Whiteboard](https://awwapp.com/)
 - [The Collaboration Superpowers](https://www.collaborationsuperpowers.com/remote-resources/)
+- [Excalidraw, free, feature-filled and live collaboration mode tool for quickly mocking up UIs](https://excalidraw.com/)
 
 
 ## Automation
