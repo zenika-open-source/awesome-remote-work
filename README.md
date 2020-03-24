@@ -117,7 +117,8 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 
 ### Digital Events
 
-- [Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)
+- [Remote Summit by The Family](https://hopin.to/events/remote-summit)
+- ~[Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)~
 - [DockerCon LIVE 2020](https://www.docker.com/dockercon/)
 - [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
 - [JS VidCon](https://jsvidcon.com/)
