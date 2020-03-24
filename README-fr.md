@@ -59,7 +59,7 @@ C’est un talk sur « 🏡 Full-remote : Comment réussir à travailler en équ
 
 En espérant que ça puisse vous aider ! 🙂
 
-### Margerie Guilliot
+### Margerie Guilliot - Infographie [ici](https://pbs.twimg.com/media/ETzw_TsXgAAYsPH?format=jpg&name=large)
 
 Trucs et astuces appris en 2 1/2 ans de travail à distance
 
@@ -96,7 +96,7 @@ Autres
 - :double_vertical_bar: On se force à faire des pauses, à garder une routine de travail. Parce qu'il faut pas que la maison soit assimilée comme lieu de travail par le cerveau sinon, si ça dure vous aurez du mal à faire le tri.
 - :clock530: Quand la journée est terminée on ferme la porte du bureau ou on range l'ordi bien loin. Comme ça si vous sortez pour récupérer vos enfants ou que vous allez vous dégourdir les jambes (en suivant les consignes de santé évidemment ^^) et que vous rentrez vous êtes chez vous pas au travail.
 
-En espérant que ça aide.
+En espérant que ça aide. Infographie [ici](https://pbs.twimg.com/media/ETzw_TsXgAAYsPH?format=jpg&name=large)
 
 ## Guillaume Champeau
 
