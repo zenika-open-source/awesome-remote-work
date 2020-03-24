@@ -2,7 +2,7 @@
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
 
-Available languages: [French :fr:](https://github.com/jlandure/awesome-remote-work/blob/master/README-fr.md)
+Available languages: [French :fr: - Comment faire du Télétravail ?](https://github.com/jlandure/awesome-remote-work/blob/master/README-fr.md)
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
