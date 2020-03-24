@@ -59,7 +59,7 @@ C’est un talk sur « 🏡 Full-remote : Comment réussir à travailler en équ
 
 En espérant que ça puisse vous aider ! 🙂
 
-### Margerie Guilliot - Infographie [ici](https://pbs.twimg.com/media/ETzw_TsXgAAYsPH?format=jpg&name=large)
+### Margerie Guilliot - Le télétravail en toute tranquillité - Infographie [ici](https://pbs.twimg.com/media/ETzw_TsXgAAYsPH?format=jpg&name=large)
 
 Trucs et astuces appris en 2 1/2 ans de travail à distance
 
