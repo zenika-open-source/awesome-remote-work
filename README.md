@@ -124,6 +124,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 - [DockerCon LIVE 2020](https://www.docker.com/dockercon/)
 - [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
 - [JS VidCon](https://jsvidcon.com/)
+- [Flutter Week](https://flutter-week.com/)
 
 
 ## Jobs
