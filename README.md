@@ -50,6 +50,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 - [Remote Starter Kit by Hanno](https://www.remotestarterkit.com/)
 - [Remote.tools](https://www.remote.tools/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
+- [Google Meet Grid View to show everyone in the Meet](https://chrome.google.com/webstore/detail/google-meet-grid-view/bjkegbgpfgpikgkfidhcihhiflbjgfic)
 - [Microsoft's solution for COVID-19 is a free Teams subscription for six months
 ](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Slack, platform for team communication](https://slack.com/)
