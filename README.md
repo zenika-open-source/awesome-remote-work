@@ -125,6 +125,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 - [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
 - [JS VidCon](https://jsvidcon.com/)
 - [Flutter Week](https://flutter-week.com/)
+- [MongoDB.Live](https://www.mongodb.com/world)
 
 
 ## Jobs
