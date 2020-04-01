@@ -110,12 +110,13 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 
 ### Tools to set-up digital events
 
+- [Hopin](https://hopin.to/)
+- [Tame](https://tame.events/virtual-conference/)
 - [HeySummit](https://heysummit.com/)
 - [Remo](https://remo.co/)
 - [In the Ether](https://intheether.xyz/)
 - [Crow Cast](https://www.crowdcast.io/)
 - [Konf](https://konf.co/)
-- [Hopin](https://hopin.to/)
 
 ### Digital Events
 
