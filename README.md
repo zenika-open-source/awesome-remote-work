@@ -43,6 +43,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 - [How to do effective video calls by Martin Fowler](https://martinfowler.com/articles/effective-video-calls.html)
 - [The Ultimate Guide to Remote Design Sprints](https://modus.medium.com/https-medium-com-justmadco-ultimate-guide-to-remote-design-sprints-78d180ca61db)
 - [How to successfully work from home: strategies for remote work by CircleCI](https://circleci.com/blog/maslow-s-hierarchy-of-remote-worker-needs/)
+- [The Remote Way by Over Engineering](https://medium.com/over-engineering/the-remote-way-805e3e37bad6)
 
 
 ## Productivity
