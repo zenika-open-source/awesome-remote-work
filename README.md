@@ -121,6 +121,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 
 ### Digital Events
 
+- [Cloud Native Summit Online](https://cloudnativesummit.online)
 - [Remote Summit by The Family](https://hopin.to/events/remote-summit)
 - [AllTheTalks.online](https://www.allthetalks.online/)
 - ~[Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)~
