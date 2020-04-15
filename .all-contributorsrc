@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "danybony",
+      "name": "Daniele Bonaldo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3942812?v=4",
+      "profile": "http://www.danielebonaldo.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-remote-work",
+  "projectOwner": "zenika-open-source",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
