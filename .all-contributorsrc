@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mohanarpit",
+      "name": "Arpit Mohan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/458946?v=4",
+      "profile": "http://arpitmohan.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
