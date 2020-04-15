@@ -15,7 +15,9 @@
       ]
     }
   ],
+  "commitConvention": "gitmoji"
   "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
   "projectName": "awesome-remote-work",
   "projectOwner": "zenika-open-source",
   "repoType": "github",
