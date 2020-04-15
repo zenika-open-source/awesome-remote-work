@@ -1,6 +1,6 @@
 # Awesome Remote Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
@@ -157,6 +157,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
     <td align="center"><a href="http://twitter.com/alexismp"><img src="https://avatars3.githubusercontent.com/u/1085096?v=4" width="100px;" alt=""/><br /><sub><b>Alexis MP</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=alexismp" title="Documentation">📖</a></td>
     <td align="center"><a href="https://lydra.fr"><img src="https://avatars0.githubusercontent.com/u/2980075?v=4" width="100px;" alt=""/><br /><sub><b>Christophe Chaudier</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=cchaudier" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.edouard-marquez.me"><img src="https://avatars1.githubusercontent.com/u/246838?v=4" width="100px;" alt=""/><br /><sub><b>Edouard Marquez</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=g123k" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://blog.zenika.com/author/jlandure/"><img src="https://avatars2.githubusercontent.com/u/525974?v=4" width="100px;" alt=""/><br /><sub><b>Julien Landuré</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/pulls?q=is%3Apr+reviewed-by%3Ajlandure" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=jlandure" title="Documentation">📖</a> <a href="#translation-jlandure" title="Translation">🌍</a> <a href="#ideas-jlandure" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
