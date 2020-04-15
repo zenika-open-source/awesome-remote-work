@@ -58,6 +58,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jlandure",
+      "name": "Julien Landuré",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/525974?v=4",
+      "profile": "https://blog.zenika.com/author/jlandure/",
+      "contributions": [
+        "review",
+        "doc",
+        "translation",
+        "ideas"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
