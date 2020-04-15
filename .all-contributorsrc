@@ -15,7 +15,7 @@
       ]
     }
   ],
-  "commitConvention": "gitmoji"
+  "commitConvention": "gitmoji",
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": true,
   "projectName": "awesome-remote-work",
