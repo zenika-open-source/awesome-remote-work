@@ -147,6 +147,6 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-# Show your support
+# 🎉 Show your support
 
 ⭐️ this repo
