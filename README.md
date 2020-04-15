@@ -152,6 +152,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 <table>
   <tr>
     <td align="center"><a href="http://www.danielebonaldo.com"><img src="https://avatars3.githubusercontent.com/u/3942812?v=4" width="100px;" alt=""/><br /><sub><b>Daniele Bonaldo</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=danybony" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/cravalec"><img src="https://avatars1.githubusercontent.com/u/8771111?v=4" width="100px;" alt=""/><br /><sub><b>Cedric RAVALEC</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=cravalec" title="Documentation">📖</a></td>
     <td align="center"><a href="http://arpitmohan.com"><img src="https://avatars2.githubusercontent.com/u/458946?v=4" width="100px;" alt=""/><br /><sub><b>Arpit Mohan</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=mohanarpit" title="Documentation">📖</a></td>
   </tr>
 </table>
