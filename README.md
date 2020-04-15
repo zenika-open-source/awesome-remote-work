@@ -1,6 +1,6 @@
 # Awesome Remote Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
@@ -152,6 +152,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 <table>
   <tr>
     <td align="center"><a href="http://www.danielebonaldo.com"><img src="https://avatars3.githubusercontent.com/u/3942812?v=4" width="100px;" alt=""/><br /><sub><b>Daniele Bonaldo</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=danybony" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/cravalec"><img src="https://avatars1.githubusercontent.com/u/8771111?v=4" width="100px;" alt=""/><br /><sub><b>Cedric RAVALEC</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=cravalec" title="Documentation">📖</a></td>
   </tr>
 </table>
 
