@@ -49,6 +49,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "g123k",
+      "name": "Edouard Marquez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/246838?v=4",
+      "profile": "https://www.edouard-marquez.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
