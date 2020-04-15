@@ -31,6 +31,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "alexismp",
+      "name": "Alexis MP",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1085096?v=4",
+      "profile": "http://twitter.com/alexismp",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
