@@ -19,6 +19,7 @@
 - [Infographie – Comment télétravailler en toute sécurité](https://www.alliancy.fr/etudes/securite/2020/03/13/comment-teletravailler-securite)
 - [Comment recruter à distance ?](https://workmetender.com/2020/03/12/comment-recruter-a-distance/)
 - [Comment aménager un coin bureau en télétravail ? 10 exemples pour vous inspirer](https://blog.trello.com/fr/outils-t%C3%A9l%C3%A9travail)
+- [5 conseils pour devenir un(e) pro de la visioconférence ! par Microsoft](https://experiences.microsoft.fr/business/new-culture-of-work-business/5-conseils-pour-devenir-un-pro-de-la-visioconference/)
 
 
 ## Productivité
