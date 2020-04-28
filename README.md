@@ -30,7 +30,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [How to Build Culture in a Remote Team by Zapier](https://zapier.com/learn/remote-work/how-build-culture-remote-team/)
 - [All Remote from GitLab](https://about.gitlab.com/company/culture/all-remote/)
 - [What is Remote Work? by Buffer](https://open.buffer.com/remote-work/)
-- [The manager’s manual for remote work by Slack](https://slackhq.com/manager-manual-for-remote-work)
+- [The manager’s manual for remote work by Slack](https://slackhq.com/manager-manual-for-remote-work) [The ultimate guide to remote meetings in 2020 by Slack](https://slackhq.com/ultimate-guide-remote-meetings)
 - [How to remote on Dev.to](https://dev.to/andydangerous/how-to-remote)
 - [Remote Work Tips for Teams on Dev.to](https://dev.to/laurieontech/remote-work-tips-for-teams-51ap)
 - [Remote work: The Open Source Way on Dev.to](https://dev.to/anajsana95/remote-work-the-open-source-way-i52)
