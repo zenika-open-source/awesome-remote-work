@@ -113,6 +113,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Lessons learned from organising our first virtual conference](https://www.taxjustice.net/2020/03/05/lessons-learned-from-organising-our-first-virtual-conference/)
 - [Best practices for hosting a digital event by Zoom](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/)
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
+- [SheetsCon 2020: Lessons Learned Running An Online Conference For 6,700 People](https://www.benlcollins.com/spreadsheets/sheetscon-2020-online-conference-lessons/)
 
 ### Tools to set-up digital events
 
