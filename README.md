@@ -117,10 +117,11 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ### Tools to set-up digital events
 
+- [Livestorm](https://livestorm.co/fr/)
+- [Remo](https://remo.co/)
 - [Hopin](https://hopin.to/)
 - [Tame](https://tame.events/virtual-conference/)
 - [HeySummit](https://heysummit.com/)
-- [Remo](https://remo.co/)
 - [In the Ether](https://intheether.xyz/)
 - [Crow Cast](https://www.crowdcast.io/)
 - [Konf](https://konf.co/)
