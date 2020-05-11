@@ -82,6 +82,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 ### How to
 
 - [How to collaborate like a pro in VS Code on Dev.to](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
+- [Software Profession Resources - Mobbing and Pairing](https://trello.com/b/1lfMkCOh/software-profession-resources)
 
 ### Tools
 
