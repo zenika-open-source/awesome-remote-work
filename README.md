@@ -49,6 +49,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [How to successfully work from home: strategies for remote work by CircleCI](https://circleci.com/blog/maslow-s-hierarchy-of-remote-worker-needs/)
 - [The Remote Way by Over Engineering](https://medium.com/over-engineering/the-remote-way-805e3e37bad6)
 - [The Five Levels of Remote Work — and why you’re probably at Level 2](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c)
+- [22 tips for coaching remote teams by Zenika](https://medium.zenika.com/22-tips-for-coaching-remote-teams-1e04232f9607)
 
 
 ## Productivity
