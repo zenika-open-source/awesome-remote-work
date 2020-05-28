@@ -50,6 +50,8 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [The Remote Way by Over Engineering](https://medium.com/over-engineering/the-remote-way-805e3e37bad6)
 - [The Five Levels of Remote Work — and why you’re probably at Level 2](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c)
 - [22 tips for coaching remote teams by Zenika](https://medium.zenika.com/22-tips-for-coaching-remote-teams-1e04232f9607)
+- [Remote Working Resource Hub by Workplace / Facebook](https://www.facebook.com/workplace/remote-working-resource-hub)
+- [8 tips for getting it done when working from home by Gsuite / Google](https://www.blog.google/products/g-suite/8-tips-for-working-from-home/)
 
 
 ## Productivity
