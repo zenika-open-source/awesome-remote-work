@@ -66,6 +66,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Slack, platform for team communication](https://slack.com/)
 - [Discord, modern voice & text chat app](https://discordapp.com/)
 - [Miro, online collaborative whiteboarding platform](https://miro.com/)
+- [Mural, Digital Workplace](https://www.mural.co/)
 - [Daily.co, Ship 1-click video chat faster and smarter](https://www.daily.co/)
 - [Metro Retro, A retrospective app for teams together and around the world](https://metroretro.io/)
 - [PlanITpoker, Make Estimating Agile Projects Accurate & Fun](https://www.planitpoker.com/)
@@ -90,6 +91,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 - [Floobits](https://floobits.com/)
 - [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+- [Donut - connect around](https://www.donut.com/)
 
 ## Education
 
@@ -121,30 +123,21 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ### Tools to set-up digital events
 
+- [StreamYard](https://streamyard.com/)
 - [Livestorm](https://livestorm.co/fr/)
 - [Remo](https://remo.co/)
 - [Hopin](https://hopin.to/)
+- [Restream](https://restream.io/)
 - [Tame](https://tame.events/virtual-conference/)
 - [HeySummit](https://heysummit.com/)
 - [In the Ether](https://intheether.xyz/)
 - [Crow Cast](https://www.crowdcast.io/)
 - [Konf](https://konf.co/)
 
-### Digital Events
-
-- [Cloud Native Summit Online](https://cloudnativesummit.online)
-- [Remote Summit by The Family](https://hopin.to/events/remote-summit)
-- [AllTheTalks.online](https://www.allthetalks.online/)
-- ~[Google Cloud Next ’20: Digital Connect](https://cloud.withgoogle.com/next/sf)~
-- [DockerCon LIVE 2020](https://www.docker.com/dockercon/)
-- [Elastic Virtual User Group](https://community.elastic.co/emea-virtual/)
-- [JS VidCon](https://jsvidcon.com/)
-- [Flutter Week](https://flutter-week.com/)
-- [MongoDB.Live](https://www.mongodb.com/world)
-
 
 ## Jobs
 
+- [Remote|Ok, Today's remote jobs](https://remoteok.io/)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 - [Remote Work](https://github.com/fjbelchi/RemoteWork)
