@@ -88,6 +88,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "Mayie",
+      "name": "Marie Viley",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35461138?v=4",
+      "profile": "https://github.com/Mayie",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
