@@ -29,6 +29,7 @@
 - [8 fonctionnalités impressionnantes de G Suite que Google aimerait que plus de professionnels apprécient](https://www.zdnet.fr/pratique/8-fonctionnalites-impressionnantes-de-g-suite-que-google-aimerait-que-plus-de-professionnels-apprecient-39889587.htm)
 - [S'organiser pour télétravailler](https://formateurs.animacoop.net/teletravail/?PagePrincipale)
 - [Des outils pour faciliter des ateliers en ligne par Carole Laimay](https://www.carole-laimay.com/outils-faciliter-ateliers-en-ligne/)
+- [Calendly : un outil simple pour organiser et programmer ses réunions](https://www.blogdumoderateur.com/calendly-outil-simple-organiser-programmer-rendez/)
 
 
 ## Solidarité
