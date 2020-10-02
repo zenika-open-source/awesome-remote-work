@@ -97,6 +97,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "loic5",
+      "name": "Loïc Lengrand",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/42970493?v=4",
+      "profile": "https://github.com/loic5",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
