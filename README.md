@@ -134,6 +134,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [In the Ether](https://intheether.xyz/)
 - [Crow Cast](https://www.crowdcast.io/)
 - [Konf](https://konf.co/)
+- [Speakeasy: A place for communities and friends](https://speakeasy.co/)
 
 
 ## Jobs
