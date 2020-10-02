@@ -52,7 +52,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [22 tips for coaching remote teams by Zenika](https://medium.zenika.com/22-tips-for-coaching-remote-teams-1e04232f9607)
 - [Remote Working Resource Hub by Workplace / Facebook](https://www.facebook.com/workplace/remote-working-resource-hub)
 - [8 tips for getting it done when working from home by Gsuite / Google](https://www.blog.google/products/g-suite/8-tips-for-working-from-home/)
-- [Maintain connection with your team while working remote by Simon Sinek ](https://simonsinek.com/commit/huddle-how-to/)
+- [Maintain connection with your team while working remote by Simon Sinek](https://simonsinek.com/commit/huddle-how-to/)
 
 
 ## Productivity
