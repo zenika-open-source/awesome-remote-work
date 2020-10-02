@@ -74,6 +74,8 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [A Web Whiteboard](https://awwapp.com/)
 - [The Collaboration Superpowers](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Excalidraw, free, feature-filled and live collaboration mode tool for quickly mocking up UIs](https://excalidraw.com/)
+- [Calendly helps you schedule meetings without the back-and-forth emails](https://calendly.com/)
+
 
 
 ## Automation
