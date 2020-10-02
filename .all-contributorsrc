@@ -79,6 +79,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "zigarn",
+      "name": "Alexandre Garnier",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/175128?v=4",
+      "profile": "https://www.zigarn.com",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
