@@ -70,6 +70,15 @@
         "translation",
         "ideas"
       ]
+    },
+    {
+      "login": "CallMeGoodWater",
+      "name": "Antoine BONNEAU",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17405388?v=4",
+      "profile": "https://github.com/CallMeGoodWater",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
