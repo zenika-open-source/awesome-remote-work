@@ -144,8 +144,10 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote|Ok, Today's remote jobs](https://remoteok.io/)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [ProductHunt](https://www.producthunt.com/jobs?remote_ok=true)
 - [Remote Work](https://github.com/fjbelchi/RemoteWork)
 - [Remote Working - What it is, what it can be for your team and how to achieve it](https://github.com/msg-DAVID-GmbH/RemoteWorking)
+- [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 
 
 # ✨ Contributors
