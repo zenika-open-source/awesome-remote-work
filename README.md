@@ -1,6 +1,6 @@
 # Awesome Remote Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
@@ -170,6 +170,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
     <td align="center"><a href="https://www.zigarn.com"><img src="https://avatars2.githubusercontent.com/u/175128?v=4" width="100px;" alt=""/><br /><sub><b>Alexandre Garnier</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/pulls?q=is%3Apr+reviewed-by%3Azigarn" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Mayie"><img src="https://avatars3.githubusercontent.com/u/35461138?v=4" width="100px;" alt=""/><br /><sub><b>Marie Viley</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=Mayie" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/loic5"><img src="https://avatars2.githubusercontent.com/u/42970493?v=4" width="100px;" alt=""/><br /><sub><b>Loïc Lengrand</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=loic5" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://doomhammer.info"><img src="https://avatars2.githubusercontent.com/u/695373?v=4" width="100px;" alt=""/><br /><sub><b>Piotr Gaczkowski</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=DoomHammer" title="Documentation">📖</a></td>
   </tr>
 </table>
 
