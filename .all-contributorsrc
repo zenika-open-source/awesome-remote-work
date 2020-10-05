@@ -106,6 +106,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "DoomHammer",
+      "name": "Piotr Gaczkowski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/695373?v=4",
+      "profile": "https://doomhammer.info",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
