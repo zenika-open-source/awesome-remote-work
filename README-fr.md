@@ -51,6 +51,23 @@
 - [Tout pour réussir ton année scolaire, de la 6ème à la terminale](https://www.schoolmouv.fr/)
 
 
+## Événements
+
+### Outils pour organiser des événements à distance
+
+- [StreamYard](https://streamyard.com/)
+- [Livestorm](https://livestorm.co/fr/)
+- [Remo](https://remo.co/)
+- [Hopin](https://hopin.to/)
+- [Restream](https://restream.io/)
+- [Tame](https://tame.events/virtual-conference/)
+- [HeySummit](https://heysummit.com/)
+- [In the Ether](https://intheether.xyz/)
+- [Crow Cast](https://www.crowdcast.io/)
+- [Konf](https://konf.co/)
+- [Speakeasy: A place for communities and friends](https://speakeasy.co/)
+
+
 ## Conseils
 
 ### Lise Quesnel
