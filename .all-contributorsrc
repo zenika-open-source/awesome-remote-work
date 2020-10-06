@@ -115,6 +115,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "JuliaLehoux",
+      "name": "JuliaLehoux",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28342307?v=4",
+      "profile": "https://github.com/JuliaLehoux",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
