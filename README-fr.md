@@ -31,7 +31,7 @@
 - [S'organiser pour télétravailler](https://formateurs.animacoop.net/teletravail/?PagePrincipale)
 - [Des outils pour faciliter des ateliers en ligne par Carole Laimay](https://www.carole-laimay.com/outils-faciliter-ateliers-en-ligne/)
 - [Calendly : un outil simple pour organiser et programmer ses réunions](https://www.blogdumoderateur.com/calendly-outil-simple-organiser-programmer-rendez/)
-
+- [Bonnes pratiques en télétravail – #1 La gestion du temps](https://blog.zenika.com/2020/06/19/bonnes-pratiques-en-teletravail-1-la-gestion-du-temps/)
 
 ## Solidarité
 
