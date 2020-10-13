@@ -32,6 +32,8 @@
 - [Des outils pour faciliter des ateliers en ligne par Carole Laimay](https://www.carole-laimay.com/outils-faciliter-ateliers-en-ligne/)
 - [Calendly : un outil simple pour organiser et programmer ses réunions](https://www.blogdumoderateur.com/calendly-outil-simple-organiser-programmer-rendez/)
 - [Bonnes pratiques en télétravail – #1 La gestion du temps](https://blog.zenika.com/2020/06/19/bonnes-pratiques-en-teletravail-1-la-gestion-du-temps/)
+![Bonnes pratiques en télétravail – #1 La gestion du temps | Infographie](https://media-exp1.licdn.com/dms/image/C4D22AQGObb6san-TJw/feedshare-shrink_2048_1536-alternative/0?e=1605744000&v=beta&t=UDMNzZnHGSo06aUOkvisbnasQjv7EffV2R5rg5m-Mc4)
+- [Bonnes pratiques en télétravail – #2 Organisation et planification](https://blog.zenika.com/2020/06/26/bonnes-pratiques-en-teletravail-2-organisation-et-planification/)
 
 ## Solidarité
 
