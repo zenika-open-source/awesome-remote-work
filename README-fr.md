@@ -157,3 +157,4 @@ Maintenez l'implication en étant conviviaux à distance:
 
 ![Bonnes pratiques en télétravail – #1 La gestion du temps | Infographie](https://media-exp1.licdn.com/dms/image/C4D22AQGObb6san-TJw/feedshare-shrink_2048_1536-alternative/0?e=1605744000&v=beta&t=UDMNzZnHGSo06aUOkvisbnasQjv7EffV2R5rg5m-Mc4)
 
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
