@@ -1,6 +1,6 @@
 # Awesome Remote Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
@@ -179,6 +179,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
   <tr>
     <td align="center"><a href="https://github.com/cycy-realbeats"><img src="https://avatars0.githubusercontent.com/u/57004116?v=4" width="100px;" alt=""/><br /><sub><b>cycy-realbeats</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=cycy-realbeats" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt=""/><br /><sub><b>Antoine Oili</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=Antoineoili" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/aorenge"><img src="https://avatars1.githubusercontent.com/u/580417?v=4" width="100px;" alt=""/><br /><sub><b>Amelin ORENGE</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=aorenge" title="Documentation">📖</a></td>
   </tr>
 </table>
 
