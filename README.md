@@ -112,6 +112,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Open Broadcaster Software OBS](https://obsproject.com/fr)
 - [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/)
 - [Elgato Game Capture](https://www.elgato.com/fr)
+- [Blackmagic Design ATEM Mini - a live production switcher](https://www.blackmagicdesign.com/products/atemmini)
 
 
 ## Events
