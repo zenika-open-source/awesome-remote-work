@@ -40,7 +40,8 @@
 
 ## Fauteuils
 
-- [Chaise ergonomique Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair) « Très confortable pour travailler ou pour faire la sieste »
+- [Chaise ergonomique Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair)
+> « Très confortable pour travailler ou pour faire la sieste »
 - [Fauteuil gamer corsair T1 2018](https://www.boulanger.com/ref/1114143) « Commandé et en cours de livraison, ce fauteuil a été recommandé sur Slack. Je le trouve plus abordable que du secret Lab par exemple »
 - [GXT 707 Resto Gaming Chair](https://www.trust.com/fr/product/23287-gxt-707-resto-gaming-chair-black) « Bon look, confortable et bien conçu. Validé pour les + 1m80 »
 
