@@ -1,5 +1,5 @@
 # :fr: Awesome Remote Work Equipment
-😎 En complément des ressources, voici une liste d’équipements testés et approuvés par des collaborateurs Zenika (mais pas que) pour télétravailler depuis chez soi dans des conditions optimales. N'hésitez pas à contribuer.
+😎 En complément des ressources, voici une liste d’équipements testés et approuvés pour télétravailler depuis chez soi dans des conditions optimales. N'hésitez pas à contribuer.
 
 ## Contenu
 
@@ -94,4 +94,3 @@
 > « Un bon éclairage améliore le rendu des webcams »
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
-
