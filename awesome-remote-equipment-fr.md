@@ -9,7 +9,7 @@
 - [Claviers et souris](#claviers-et-souris)
 - [Webcams](#webcams)
 - [Micros et casques](#micros-et-casques)
-- [Accessoires autres](#accessoires-autres)
+- [Autres accessoires](#autres-accessoires)
 
 
 ## Bureaux
