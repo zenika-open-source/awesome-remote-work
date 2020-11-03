@@ -78,7 +78,7 @@
 - [Micro Blue Yeti ](https://www.amazon.fr/Blue-Microphones-Yeti-Argent-Silver/dp/B002VA464S) 
 > « Historiquement utilisé par les youtubeurs, c'est un bon micro pour son budget. Possible qu'il existe mieux aujourd'hui ?»
 
-## Accessoires autres
+## Autres accessoires
 
 - [Repose-poignets pour clavier et souris](https://www.amazon.fr/gp/product/B081GD6SNM/) 
 > « Me permet de me remettre d'une tendinite due à une mauvaise position des poignets »
