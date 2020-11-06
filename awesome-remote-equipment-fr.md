@@ -42,10 +42,13 @@
 
 - [Chaise ergonomique Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair)
 > « Très confortable pour travailler ou pour faire la sieste »
+> « Un peu petit pour les personnes de plus d'1m80 »
 - [Fauteuil gamer corsair T1 2018](https://www.boulanger.com/ref/1114143) 
 > « Commandé et en cours de livraison, ce fauteuil a été recommandé sur Slack. Je le trouve plus abordable que du secret Lab par exemple »
 - [GXT 707 Resto Gaming Chair](https://www.trust.com/fr/product/23287-gxt-707-resto-gaming-chair-black) 
 > « Bon look, confortable et bien conçu. Validé pour les + 1m80 »
+- [Chaise confortable et design](https://www.northdeco.fr/chaise-soft-pad-ea217) 
+> « Super confortable et ne dénote pas avec la déco du salon ;) »
 
 ## Écrans
 
@@ -77,6 +80,15 @@
 > « Casque Bluetooth le mieux adapté à ma morphologie, parfait pour des sessions longues. Micro de bonne facture. Son Sennheiser à tester en magasin. Pas le meilleur en réduction de bruit mais OK »
 - [Micro Blue Yeti ](https://www.amazon.fr/Blue-Microphones-Yeti-Argent-Silver/dp/B002VA464S) 
 > « Historiquement utilisé par les youtubeurs, c'est un bon micro pour son budget. Possible qu'il existe mieux aujourd'hui ?»
+- [Bird UM1](https://www.amazon.fr/Bird-UM1-Microphone-USB-Noir/dp/B00EQ077RE) 
+> « Le bird um1 est de type cardioïde donc il capte globalement le son qui vient de toi et très peu le reste. Le micro est très précis quand tu es plutôt proche et par exemple les gens n’entendent pas mes chats qui renversent des trucs dans mon dos ou à côté.»
+- [Écouteurs à réduction de bruit QuietComfort 20](https://www.bose.fr/fr_fr/products/headphones/earbuds/quietcomfort-20-acoustic-noise-cancelling-headphones.html#v=qc20_samsung_black) 
+- [Écouteurs sans fil à réduction de bruit WF-1000XM3](https://www.sony.fr/electronics/veritablement-sans-fil/wf-1000xm3?cid=sem-eu-111146952&gclid=CjwKCAiA4o79BRBvEiwAjteoYIzZZ18WymBKzt_eiq-x-maF-Agd3o6elPEEGHlj86W8w-mmx8mTQxoCdJgQAvD_BwE) 
+> « Ils sont true wireless + reduction de bruit active et on m'entend très bien dans les conf call. J'en suis très satisfait, autant pour les coups de fils que pour la musique.»
+- [Système Nvidia](https://www.nvidia.com/fr-fr/) 
+> « Le système Nvidia sorti cette année est vraiment bluffant mais il faut une cg nvidia »
+- [RTX Voice plug in de Nvidia](https://www.nvidia.com/fr-fr/) 
+> « J'utilise toujours RTX Voice, ça marche aussi sur les cartes non RTX (je n'ai qu'une 1080 normale) mais ça consomme un peu de puissance du GPU soyez prévenu (ça reste ultra bluffant et ça cache très bien les bruits de mon clavier rempli de Mx Cherry Blue)»
 
 ## Autres accessoires
 
