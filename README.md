@@ -81,7 +81,8 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ## Automation
 
-- [Geekbot](https://geekbot.com/)
+- [Geekbot, Asynchronous stand-up meetings in Slack](https://geekbot.com/)
+- [Donut, Connect serendipitously for virtual coffee, peer learning, DEI discussions, and more.](https://www.donut.com/)
 
 
 ## Programming
