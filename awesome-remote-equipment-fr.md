@@ -10,7 +10,7 @@
 - [Webcams](#webcams)
 - [Micros et casques](#micros-et-casques)
 - [Autres accessoires](#autres-accessoires)
-
+- [Autres ressources utiles](#autres-ressources-utiles)
 
 ## Bureaux
 
@@ -104,5 +104,10 @@
 > « On en utilise 2 à l'agence de Nantes »
 - [Support pour webcam & lumière](https://www.amazon.fr/gp/product/B087JDFDFV/) 
 > « Un bon éclairage améliore le rendu des webcams »
+
+## Autres ressources utiles
+
+- [My Remote Office Tour](https://dev.to/wassimchegham/my-remote-office-tour-2019-edition-2kb9#video-webcam-logitech-brio-4k%C2%A0webcam) 
+
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
