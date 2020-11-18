@@ -22,6 +22,7 @@
 ### Cadres de bureau
 
 - [Cadre de bureau assis debout électrique](https://fr.flexispot.com/2stage-desk-frame-e1-e2.html)
+> « Génial ! Elégant et super pratique, on est plusieurs à l'avoir adopté chez Z, sans regret, j'ai même pu caser mon stepper de premier confinement en dessous pour des réunions DYNAMIQUES !»
 
 ### Plateaux de bureau
 
@@ -49,6 +50,8 @@
 > « Bon look, confortable et bien conçu. Validé pour les + 1m80 »
 - [Chaise confortable et design](https://www.northdeco.fr/chaise-soft-pad-ea217) 
 > « Super confortable et ne dénote pas avec la déco du salon ;) »
+- [Fauteuil ergonomique](https://www.hjh-office.fr/ergo-line-ii-siege-de-bureau-de-qualite-professionnelle.html) 
+> « Il est réglable sur plusieurs axes et le dossier est très agréable grâce à sa souplesse. On peut même croiser les jambes c'est trop bien :D Un bon rapport qualité prix »
 
 ## Écrans
 
@@ -89,6 +92,8 @@
 > « Le système Nvidia sorti cette année est vraiment bluffant mais il faut une cg nvidia »
 - [RTX Voice plug in de Nvidia](https://www.nvidia.com/fr-fr/) 
 > « J'utilise toujours RTX Voice, ça marche aussi sur les cartes non RTX (je n'ai qu'une 1080 normale) mais ça consomme un peu de puissance du GPU soyez prévenu (ça reste ultra bluffant et ça cache très bien les bruits de mon clavier rempli de Mx Cherry Blue)»
+- [Micro casque sans fil Logitech H800](https://www.logitech.fr/fr-fr/product/wireless-headset-h800) 
+> « Je l'utilise depuis de nombreuses années, initialement pour le jeu et maintenant pour la visio-conf. Il a notamment l'intérêt d'être également Bluetooth, je peux donc aussi l'utiliser sur mon téléphone. Et point non négligeable : il continue à fonctionner lorsqu'il se recharge (ce n'est pas le cas de tous les casques sans fil malheureusement).»
 
 ## Autres accessoires
 
