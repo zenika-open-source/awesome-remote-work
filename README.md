@@ -126,6 +126,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Best practices for hosting a digital event by Zoom](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/)
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 - [SheetsCon 2020: Lessons Learned Running An Online Conference For 6,700 People](https://www.benlcollins.com/spreadsheets/sheetscon-2020-online-conference-lessons/)
+- [Hosting a Participant-First Conference in the Age of Corona - How To Do It](https://dev.to/mattstratton/hosting-a-participant-first-conference-in-the-age-of-corona-how-to-do-it-3p2j)
 
 ### Tools to set-up digital events
 
