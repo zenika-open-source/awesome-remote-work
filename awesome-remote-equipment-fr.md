@@ -52,6 +52,9 @@
 > « Super confortable et ne dénote pas avec la déco du salon ;) »
 - [Fauteuil ergonomique](https://www.hjh-office.fr/ergo-line-ii-siege-de-bureau-de-qualite-professionnelle.html) 
 > « Il est réglable sur plusieurs axes et le dossier est très agréable grâce à sa souplesse. On peut même croiser les jambes c'est trop bien :D Un bon rapport qualité prix »
+- [TOP WORK 77](https://www.hjh-office.fr/top-work-77-siege-technique-tabouret-technique.html)
+> « Siège très confortable, plein de réglages, et surtout, peut monter haut comme un tabouret de bar (jusqu'à 79cm). Un peu cher. »
+
 
 ## Écrans
 
@@ -72,6 +75,8 @@
 > « La base, une bonne webcam pratique et simple. »
 - [Logitech Streamcam](https://www.logitech.fr/fr-fr/product/streamcam) 
 > « Si vous voulez mettre un peu de budget pour une webcam de qualité, je vous la conseille. Idéale pour les pièces sombres »
+- [DroidCam](https://www.dev47apps.com/droidcam/linux/)
+> « Utiliser la webcam de son smartphone depuis son laptop, super pour profiter des progrès plus rapide des "photophones". »
 
 ## Micros et casques
 
