@@ -53,7 +53,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Working Resource Hub by Workplace / Facebook](https://www.facebook.com/workplace/remote-working-resource-hub)
 - [8 tips for getting it done when working from home by Gsuite / Google](https://www.blog.google/products/g-suite/8-tips-for-working-from-home/)
 - [Maintain connection with your team while working remote by Simon Sinek](https://simonsinek.com/commit/huddle-how-to/)
-
+- [Effective Home Office](https://effectivehomeoffice.com/)
 
 ## Productivity
 
@@ -91,12 +91,14 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 - [How to collaborate like a pro in VS Code on Dev.to](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
 - [Software Profession Resources - Mobbing and Pairing](https://trello.com/b/1lfMkCOh/software-profession-resources)
+- [Remote Mob Programming](https://www.remotemobprogramming.org)
 
 ### Tools
 
 - [Floobits](https://floobits.com/)
 - [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 - [Donut - connect around](https://www.donut.com/)
+- [Git Handover with mob](https://mob.sh)
 
 ## Education
 
