@@ -160,6 +160,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "simonharrer",
+      "name": "Simon Harrer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/375693?v=4",
+      "profile": "https://simonharrer.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
