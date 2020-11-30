@@ -73,7 +73,7 @@
 
 ## Conseils
 
-### Lise Quesnel
+### Lise Quesnel / [@QuesnelLise](https://twitter.com/QuesnelLise)
 
 👋 En ces temps de coronavirus, voici un peu de retour d’expérience vis à vis du remote.
 
@@ -122,7 +122,7 @@ Autres
 
 En espérant que ça aide. Infographie [ici](https://pbs.twimg.com/media/ETzw_TsXgAAYsPH?format=jpg&name=large)
 
-## Guillaume Champeau
+## Guillaume Champeau / [@gchampeau](https://twitter.com/gchampeau)
 
 [Toutes les informations sont ici.](https://threadreaderapp.com/thread/1238200706844233728.html)
 
@@ -143,18 +143,24 @@ Maintenez l'implication en étant conviviaux à distance:
 - Encouragez les gens à se rencontrer dans un endroit calme où chacun peut être entendu.
 - Mettez votre microphone en mode silencieux lorsque vous ne parlez pas.
 
-## Virginie Bapaume
+## Virginie Bapaume / [@virginiebapaume](https://twitter.com/virginiebapaume)
 
 [https://twitter.com/virginiebapaume/status/1238547219172728833](https://twitter.com/virginiebapaume/status/1238547219172728833)
 
-## Cyrielle Eudeline
+## Cyrielle Eudeline / [@Cyrielle_Edl](https://twitter.com/Cyrielle_Edl)
 
 [https://twitter.com/Cyrielle_Edl/status/1239965461640400896](https://twitter.com/Cyrielle_Edl/status/1239965461640400896)
 
 ![sketchnote](https://pbs.twimg.com/media/ETU-ARyUwAMsSwt?format=jpg&name=large)
 
-## Séverine Luzeau
+## Séverine Luzeau / [@SLuzeau](https://twitter.com/SLuzeau)
 
-![Bonnes pratiques en télétravail – #1 La gestion du temps | Infographie](https://media-exp1.licdn.com/dms/image/C4D22AQGObb6san-TJw/feedshare-shrink_2048_1536-alternative/0?e=1605744000&v=beta&t=UDMNzZnHGSo06aUOkvisbnasQjv7EffV2R5rg5m-Mc4)
+[Bonnes pratiques en télétravail – La gestion du temps](https://blog.zenika.com/2020/06/19/bonnes-pratiques-en-teletravail-1-la-gestion-du-temps/)
+
+[Bonnes pratiques en télétravail – Les rôles délégués en réunion](https://blog.zenika.com/2020/05/11/astuces-de-teletravail-les-roles-delegues-en-reunion/)
+
+## Shirley / [@ShirleyAlmCh](https://twitter.com/ShirleyAlmCh)
+
+[Le guide du télétravail - BUILD RH](https://drive.google.com/file/d/17NTPgmSVjSd8fp4lKIxdn0lALjb1bTV9/view)
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
