@@ -169,6 +169,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "DaffyDuke",
+      "name": "Olivier Duquesne",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/170905?v=4",
+      "profile": "http://www.linkedin.com/in/oduquesne",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
