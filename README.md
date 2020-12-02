@@ -95,9 +95,11 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ### Tools
 
-- [Floobits](https://floobits.com/)
+- [Floobits, Cross-editor real-time collaboration](https://floobits.com/)
+- [Keppler, Real-time code sharing for your lectures and presentations](https://brunosimon.github.io/keppler/)
 - [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-- [Donut - connect around](https://www.donut.com/)
+- [Quokka, runs your JavaScript and TypeScript code and displays results inline](https://quokkajs.com/)
+- [RunJS, A playground for JavaScript and TypeScript](https://runjs.dev/)
 - [Git Handover with mob](https://mob.sh)
 
 ## Education
