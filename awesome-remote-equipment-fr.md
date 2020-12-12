@@ -115,7 +115,7 @@
 - [Support pour webcam & lumière](https://www.amazon.fr/gp/product/B087JDFDFV/) 
 > « Un bon éclairage améliore le rendu des webcams »
 
-## 📑 Autres ressources utiles
+## 📚 Autres ressources utiles
 
 - [My Remote Office Tour](https://dev.to/wassimchegham/my-remote-office-tour-2019-edition-2kb9#video-webcam-logitech-brio-4k%C2%A0webcam) 
 
