@@ -12,7 +12,7 @@
 - [Autres accessoires](#autres-accessoires)
 - [Autres ressources utiles](#autres-ressources-utiles)
 
-## Bureaux
+## 💼 Bureaux
 
 ### Complet
 
@@ -39,7 +39,7 @@
 - [Convertisseur de bureau assis debout](https://fr.flexispot.com/catalog/product/view/id/834/s/classicriser/category/25/) 
 > « c’est super, je l’ai déposé sur le bureau chez mon client, ça évite de leur imposer un changement de mobilier, c’est transportable avec une voiture mais c'est lourd : 25 kg environ. Je l’avais récupéré pour chez moi post 1er confinement mais ça prend trop de place sur un bureau perso où tu as déjà du merdier de paperasse & co, par contre, au boulot, comme je n’ai rien sur mon bureau, c’est nickel »
 
-## Fauteuils
+## 🪑 Fauteuils
 
 - [Chaise ergonomique Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair)
 > « Très confortable pour travailler ou pour faire la sieste »
@@ -56,7 +56,7 @@
 > « Siège très confortable, plein de réglages, et surtout, peut monter haut comme un tabouret de bar (jusqu'à 79cm). Un peu cher. »
 
 
-## Écrans
+## 🖥 Écrans
 
 - [HP Ecran 24w](https://www.cdiscount.com/informatique/ecrans-informatiques/hp-ecran-24w-24-fhd-1-920-x-1-080-a-60-hz-5/f-10732-hp1ca86aa.html) 
 > « Je l'ai acheté en 2017. C'est un bon écran qui fait l'affaire. câble VGA + HDMI fourni »
@@ -64,12 +64,12 @@
 > « Idéal quand on a déjà un iPad, besoin d'un second écran et pas énormément de place »
 - [iPad reconditionnés](https://www.backmarket.fr/ipad/pro-reconditionnes.html?gclid=CjwKCAiA-f78BRBbEiwATKRRBC4R9KwCcOEfZAjPjYHagPFeU7Th1oZ_POxywVtaId9zigFSBWqxlBoCUy0QAvD_BwE)
 
-## Claviers et souris
+## ⌨️ Claviers et 🖱 souris
 
 - [Clavier et souris ergonomiques Microsoft Sculpt](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001#devkit-highlights) 
 > « J'utilise ça depuis 5-6 ans. Hyper confortable. Prise en main rapide. Très peu énergivore (je change les piles environ une fois par an).»
 
-## Webcams
+## 🎥 Webcams
 
 - [Webcam LOGITECH C920](https://www.logitech.fr/fr-fr/product/hd-pro-webcam-c920) 
 > « La base, une bonne webcam pratique et simple. »
@@ -78,7 +78,7 @@
 - [DroidCam](https://www.dev47apps.com/droidcam/linux/)
 > « Utiliser la webcam de son smartphone depuis son laptop, super pour profiter des progrès plus rapide des "photophones". »
 
-## Micros et casques
+##  🎙 Micros et 🎧 casques
 
 - [Micro USB avec bras articulé](https://www.tonormic.com/products/tonor-q9-usb-microphone-kit) 
 > « Petit prix, et très pratique à l'usage, fonctionne sur Linux. »
@@ -100,7 +100,7 @@
 - [Micro casque sans fil Logitech H800](https://www.logitech.fr/fr-fr/product/wireless-headset-h800) 
 > « Je l'utilise depuis de nombreuses années, initialement pour le jeu et maintenant pour la visio-conf. Il a notamment l'intérêt d'être également Bluetooth, je peux donc aussi l'utiliser sur mon téléphone. Et point non négligeable : il continue à fonctionner lorsqu'il se recharge (ce n'est pas le cas de tous les casques sans fil malheureusement).»
 
-## Autres accessoires
+## 🛠 Autres accessoires
 
 - [Repose-poignets pour clavier et souris](https://www.amazon.fr/gp/product/B081GD6SNM/) 
 > « Me permet de me remettre d'une tendinite due à une mauvaise position des poignets »
@@ -115,7 +115,7 @@
 - [Support pour webcam & lumière](https://www.amazon.fr/gp/product/B087JDFDFV/) 
 > « Un bon éclairage améliore le rendu des webcams »
 
-## Autres ressources utiles
+## 📑 Autres ressources utiles
 
 - [My Remote Office Tour](https://dev.to/wassimchegham/my-remote-office-tour-2019-edition-2kb9#video-webcam-logitech-brio-4k%C2%A0webcam) 
 
