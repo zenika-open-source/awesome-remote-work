@@ -77,6 +77,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Calendly helps you schedule meetings without the back-and-forth emails](https://calendly.com/)
 - [Matrix - An open network for secure, decentralized communication](https://matrix.org/)
 - [Dotstorming - A space for real-time group brainstorming and decision making](https://dotstorming.com/)
+- [Bubbles, show what you're talking about](https://www.usebubbles.com/)
 
 
 ## Automation
