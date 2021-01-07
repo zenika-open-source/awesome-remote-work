@@ -3,14 +3,14 @@
 
 ## Contenu
 
-- [Bureaux](#bureaux)
-- [Fauteuils](#fauteuils)
-- [Écrans](#écrans)
-- [Claviers et souris](#claviers-et-souris)
-- [Webcams](#webcams)
-- [Micros et casques](#micros-et-casques)
-- [Autres accessoires](#autres-accessoires)
-- [Autres ressources utiles](#autres-ressources-utiles)
+- [Bureaux](#-bureaux)
+- [Fauteuils](#-fauteuils)
+- [Écrans](#-écrans)
+- [Claviers et souris](#%EF%B8%8F-claviers-et--souris)
+- [Webcams](#-webcams)
+- [Micros et casques](#-micros-et--casques)
+- [Autres accessoires](#-autres-accessoires)
+- [Autres ressources utiles](#-autres-ressources-utiles)
 
 ## 💼 Bureaux
 
