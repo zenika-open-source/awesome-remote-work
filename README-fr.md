@@ -9,6 +9,7 @@
 - [Solidarité](#solidarité)
 - [Éducation](#éducation)
 - [Conseils](#conseils)
+- [Equipement](#equipement)
 
 
 ## Culture
@@ -164,3 +165,7 @@ Maintenez l'implication en étant conviviaux à distance:
 [Le guide du télétravail - BUILD RH](https://drive.google.com/file/d/17NTPgmSVjSd8fp4lKIxdn0lALjb1bTV9/view)
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
+
+## Equipement
+
+L'installation à la maison n'est pas à prendre à la légère, voici une [liste d'équipements permettant d'être correctement assis ou pour travailler debout et testés par les consultants Zenika](awesome-remote-equipment-fr.md)
