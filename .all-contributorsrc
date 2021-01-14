@@ -178,6 +178,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "emeric-martineau",
+      "name": "Emeric Martineau",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11473190?v=4",
+      "profile": "http://www.linkedin.com/in/emeric-martineau",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",

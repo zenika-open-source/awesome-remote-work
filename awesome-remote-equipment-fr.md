@@ -54,7 +54,8 @@
 > « Il est réglable sur plusieurs axes et le dossier est très agréable grâce à sa souplesse. On peut même croiser les jambes c'est trop bien :D Un bon rapport qualité prix »
 - [TOP WORK 77](https://www.hjh-office.fr/top-work-77-siege-technique-tabouret-technique.html)
 > « Siège très confortable, plein de réglages, et surtout, peut monter haut comme un tabouret de bar (jusqu'à 79cm). Un peu cher. »
-
+- [Topstar HE30PS103](https://www.amazon.fr/gp/product/B00JGQQSN2)
+> « Siège confortable et esthétique. Réglage hauteur, basculement, accoudoire... Rien ne manque. C'est un siège synchronisé. Prix raisonnable. »
 
 ## 🖥 Écrans
 
@@ -77,6 +78,8 @@
 > « Si vous voulez mettre un peu de budget pour une webcam de qualité, je vous la conseille. Idéale pour les pièces sombres »
 - [DroidCam](https://www.dev47apps.com/droidcam/linux/)
 > « Utiliser la webcam de son smartphone depuis son laptop, super pour profiter des progrès plus rapide des "photophones". »
+- [LarmTek Webcam 1080P](https://www.amazon.fr/gp/product/B0878266V9)
+> « Une caméra juste comme il faut pour le télétravail et à prix très réduit. »
 
 ##  🎙 Micros et 🎧 casques
 
@@ -99,6 +102,8 @@
 > « J'utilise toujours RTX Voice, ça marche aussi sur les cartes non RTX (je n'ai qu'une 1080 normale) mais ça consomme un peu de puissance du GPU soyez prévenu (ça reste ultra bluffant et ça cache très bien les bruits de mon clavier rempli de Mx Cherry Blue)»
 - [Micro casque sans fil Logitech H800](https://www.logitech.fr/fr-fr/product/wireless-headset-h800) 
 > « Je l'utilise depuis de nombreuses années, initialement pour le jeu et maintenant pour la visio-conf. Il a notamment l'intérêt d'être également Bluetooth, je peux donc aussi l'utiliser sur mon téléphone. Et point non négligeable : il continue à fonctionner lorsqu'il se recharge (ce n'est pas le cas de tous les casques sans fil malheureusement).»
+- [Jabra Evolve 30 UC Stereo](https://www.amazon.fr/gp/product/B01K6TUC20)
+> « Jabra est très réputé pour ses casques audio et vous allez vite comprendre pourquoi. Très confortable, simple à utiliser, de bonne qualité. Seul le réglage de la courbure du micro est un peu dure. Le prix peu paraître un peu élevé, mais c'est le minimum pour être confortable pendant les réunions qui peuvent durer 2h. »
 
 ## 🛠 Autres accessoires
 
