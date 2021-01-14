@@ -24,6 +24,9 @@
 - [Cadre de bureau assis debout électrique](https://fr.flexispot.com/2stage-desk-frame-e1-e2.html)
 > « Génial ! Elégant et super pratique, on est plusieurs à l'avoir adopté chez Z, sans regret, j'ai même pu caser mon stepper de premier confinement en dessous pour des réunions DYNAMIQUES !»
 
+- [Bureau d'angle à trois pieds électrique](https://www.digitus.info/en/products/ergonomics/workplace-ergonomics/desk-frames/da-90386/)
+> « j'ai converti un bureau ikea d'angle galant avec ce cadre. Un des rares modèles en L abordable »
+
 ### Plateaux de bureau
 
 - [Plateau rectangulaire pour bureau 120 x 60 x 2,7](https://fr.flexispot.com/height-adjustable-desks/plateau-rectangulaire-140x70cm-120x60cm.html) 
