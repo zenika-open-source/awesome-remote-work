@@ -78,6 +78,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Matrix - An open network for secure, decentralized communication](https://matrix.org/)
 - [Dotstorming - A space for real-time group brainstorming and decision making](https://dotstorming.com/)
 - [Taskade - All-in-one organization & collaboration platform offering free upgrades during COVID-19](https://taskade.com/)
+- [Bubbles, show what you're talking about](https://www.usebubbles.com/)
 
 
 ## Automation
