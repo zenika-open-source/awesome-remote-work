@@ -190,7 +190,6 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
     <td align="center"><a href="https://github.com/aorenge"><img src="https://avatars1.githubusercontent.com/u/580417?v=4" width="100px;" alt=""/><br /><sub><b>Amelin ORENGE</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=aorenge" title="Documentation">📖</a></td>
     <td align="center"><a href="https://simonharrer.com"><img src="https://avatars3.githubusercontent.com/u/375693?v=4" width="100px;" alt=""/><br /><sub><b>Simon Harrer</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=simonharrer" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/oduquesne"><img src="https://avatars3.githubusercontent.com/u/170905?v=4" width="100px;" alt=""/><br /><sub><b>Olivier Duquesne</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=DaffyDuke" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/emeric-martineau"><img src="https://avatars1.githubusercontent.com/u/11473190?v=4" width="100px;" alt=""/><br /><sub><b>Emeric MARTINEAU</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=emeric-martineau" title="Documentation">📖</a></td>
   </tr>
 </table>
 
