@@ -122,7 +122,10 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/28342307?v=4",
       "profile": "https://github.com/JuliaLehoux",
       "contributions": [
-        "doc"
+        "doc",
+        "ideas",
+        "review",
+        "translation"
       ]
     },
     {
@@ -175,6 +178,24 @@
       "name": "Olivier Duquesne",
       "avatar_url": "https://avatars3.githubusercontent.com/u/170905?v=4",
       "profile": "http://www.linkedin.com/in/oduquesne",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "gmembre-zenika",
+      "name": "Guillaume Membré",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7294764?v=4",
+      "profile": "https://www.geekeries.fun",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "johnxie",
+      "name": "John Xie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/792088?v=4",
+      "profile": "https://www.taskade.com",
       "contributions": [
         "doc"
       ]

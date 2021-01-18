@@ -24,6 +24,9 @@
 - [Cadre de bureau assis debout électrique](https://fr.flexispot.com/2stage-desk-frame-e1-e2.html)
 > « Génial ! Elégant et super pratique, on est plusieurs à l'avoir adopté chez Z, sans regret, j'ai même pu caser mon stepper de premier confinement en dessous pour des réunions DYNAMIQUES !»
 
+- [Bureau d'angle à trois pieds électrique](https://www.digitus.info/en/products/ergonomics/workplace-ergonomics/desk-frames/da-90386/)
+> « j'ai converti un bureau ikea d'angle galant avec ce cadre. Un des rares modèles en L abordable »
+
 ### Plateaux de bureau
 
 - [Plateau rectangulaire pour bureau 120 x 60 x 2,7](https://fr.flexispot.com/height-adjustable-desks/plateau-rectangulaire-140x70cm-120x60cm.html) 
@@ -96,9 +99,7 @@
 - [Écouteurs à réduction de bruit QuietComfort 20](https://www.bose.fr/fr_fr/products/headphones/earbuds/quietcomfort-20-acoustic-noise-cancelling-headphones.html#v=qc20_samsung_black) 
 - [Écouteurs sans fil à réduction de bruit WF-1000XM3](https://www.sony.fr/electronics/veritablement-sans-fil/wf-1000xm3?cid=sem-eu-111146952&gclid=CjwKCAiA4o79BRBvEiwAjteoYIzZZ18WymBKzt_eiq-x-maF-Agd3o6elPEEGHlj86W8w-mmx8mTQxoCdJgQAvD_BwE) 
 > « Ils sont true wireless + reduction de bruit active et on m'entend très bien dans les conf call. J'en suis très satisfait, autant pour les coups de fils que pour la musique.»
-- [Système Nvidia](https://www.nvidia.com/fr-fr/) 
-> « Le système Nvidia sorti cette année est vraiment bluffant mais il faut une cg nvidia »
-- [RTX Voice plug in de Nvidia](https://www.nvidia.com/fr-fr/) 
+- [RTX Voice plug in de Nvidia](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/) 
 > « J'utilise toujours RTX Voice, ça marche aussi sur les cartes non RTX (je n'ai qu'une 1080 normale) mais ça consomme un peu de puissance du GPU soyez prévenu (ça reste ultra bluffant et ça cache très bien les bruits de mon clavier rempli de Mx Cherry Blue)»
 - [Micro casque sans fil Logitech H800](https://www.logitech.fr/fr-fr/product/wireless-headset-h800) 
 > « Je l'utilise depuis de nombreuses années, initialement pour le jeu et maintenant pour la visio-conf. Il a notamment l'intérêt d'être également Bluetooth, je peux donc aussi l'utiliser sur mon téléphone. Et point non négligeable : il continue à fonctionner lorsqu'il se recharge (ce n'est pas le cas de tous les casques sans fil malheureusement).»
