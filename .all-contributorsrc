@@ -199,6 +199,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "emeric-martineau",
+      "name": "Emeric MARTINEAU",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11473190?v=4",
+      "profile": "https://github.com/emeric-martineau",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
