@@ -178,6 +178,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "gmembre-zenika",
+      "name": "Guillaume Membré",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7294764?v=4",
+      "profile": "https://www.geekeries.fun",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
