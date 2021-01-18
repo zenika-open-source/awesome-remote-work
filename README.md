@@ -149,6 +149,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Konf](https://konf.co/)
 - [Speakeasy: A place for communities and friends](https://speakeasy.co/)
 - [Gather, Better spaces to gather around](https://gather.town/)
+- [Remote work? Friend party? Use WorkAdventure as you prefer](https://workadventu.re/)
 
 
 ## Jobs
