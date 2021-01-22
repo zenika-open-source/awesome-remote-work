@@ -208,6 +208,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "damienbeaufils",
+      "name": "Damien Beaufils",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4442140?v=4",
+      "profile": "https://damienbeaufils.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
