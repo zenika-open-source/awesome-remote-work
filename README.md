@@ -104,6 +104,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Quokka, runs your JavaScript and TypeScript code and displays results inline](https://quokkajs.com/)
 - [RunJS, A playground for JavaScript and TypeScript](https://runjs.dev/)
 - [Git Handover with mob](https://mob.sh)
+- [Code With Me by Jetbrains](https://plugins.jetbrains.com/plugin/14896-code-with-me)
 
 ## Education
 
