@@ -70,6 +70,7 @@
 - [Crow Cast](https://www.crowdcast.io/)
 - [Konf](https://konf.co/)
 - [Speakeasy: A place for communities and friends](https://speakeasy.co/)
+- [SpatialChat](https://spatial.chat/)
 
 
 ## Conseils
