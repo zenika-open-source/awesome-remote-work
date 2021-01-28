@@ -73,6 +73,9 @@
 - [Clavier et souris ergonomiques Microsoft Sculpt](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001#devkit-highlights) 
 > « J'utilise ça depuis 5-6 ans. Hyper confortable. Prise en main rapide. Très peu énergivore (je change les piles environ une fois par an).»
 
+- [Clavier Logitech MX Key - compatible Windows et Mac OS](https://www.logitech.fr/fr-fr/products/keyboards/mx-keys-wireless-keyboard.html)
+> « Sombre, élégant et efficace. On s'y retrouve immédiatement. Particulièrement silencieux à la frappe. Il se recharge par batterie en USB-C (je l'ai depuis 3 mois et je ne l'ai chargé que la 1ère fois). Autre option pratique, il est en bluetooth (avec ou sans dongle) et il permet de switcher entre 3 ordinateurs/tablettes simplement avec une touche ! »
+
 ## 🎥 Webcams
 
 - [Webcam LOGITECH C920](https://www.logitech.fr/fr-fr/product/hd-pro-webcam-c920) 
