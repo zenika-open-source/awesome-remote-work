@@ -226,6 +226,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "RouxAntoine",
+      "name": "Antoine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5455181?v=4",
+      "profile": "https://antoine-roux.tk",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
