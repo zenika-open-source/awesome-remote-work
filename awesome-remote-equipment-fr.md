@@ -50,7 +50,7 @@
 - [Fauteuil gamer corsair T1 2018](https://www.boulanger.com/ref/1114143) 
 > « Commandé et en cours de livraison, ce fauteuil a été recommandé sur Slack. Je le trouve plus abordable que du secret Lab par exemple »
 - [Fauteuil Corsair T3 Rush Tissu en Polyester](https://www.amazon.fr/gp/product/B07Y98Y4L6/)
-> « Je l'ai depuis un an bien en été car la matière ne tient pas trop chaud. Niveau confort c'est pas mal mais un peut trop droit. Point plus l'inclinaison 180° pour les siestes le midi 👌 »
+> « Je l'ai depuis un an. Bien en été car la matière ne tient pas trop chaud. Niveau confort c'est pas mal mais un peu trop droit. Point en plus : l'inclinaison 180° pour les siestes le midi 👌 »
 - [GXT 707 Resto Gaming Chair](https://www.trust.com/fr/product/23287-gxt-707-resto-gaming-chair-black) 
 > « Bon look, confortable et bien conçu. Validé pour les + 1m80 »
 - [Chaise confortable et design](https://www.northdeco.fr/chaise-soft-pad-ea217) 
