@@ -153,6 +153,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote work? Friend party? Use WorkAdventure as you prefer](https://workadventu.re/)
 - [PlaceMeet](https://www.placemeet.fr)
 - [SpatialChat](https://spatial.chat/)
+- [Imagina - The application of connected places](https://imagina.io/)
 
 
 ## Jobs
