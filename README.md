@@ -154,6 +154,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [PlaceMeet](https://www.placemeet.fr)
 - [SpatialChat](https://spatial.chat/)
 - [Imagina - The application of connected places](https://imagina.io/)
+- [Wonder, Online events that are fun](https://www.wonder.me/)
 
 
 ## Jobs
