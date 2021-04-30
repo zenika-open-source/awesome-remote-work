@@ -244,6 +244,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Sylvain-Delafoy",
+      "name": "Sylvain Delafoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9251589?v=4",
+      "profile": "https://github.com/Sylvain-Delafoy",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
