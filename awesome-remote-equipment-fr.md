@@ -33,13 +33,12 @@
 > « dimension idéale quand on a son bureau dans son salon et que le salon est petit. »
 - [Plateau rectangulaire pour bureau 120 x 80 x 2,5](https://fr.flexispot.com/height-adjustable-desks/plateau-rectangulaire-120x80cm.html)
 - [Plateau rectangulaire pour bureau 140 x 70 x 2,6](https://fr.flexispot.com/height-adjustable-desks/plateau-rectangulaire-140x70cm-120x60cm.html)
-- [Plateau rectangulaire pour bureau 100 x 60 x 2,8](https://fr.flexispot.com/height-adjustable-desks/plateau-rectangulaire-100x60x2-5cm.html)
 - [Plateau rectangulaire 140 x 65](https://www.ikea.com/fr/fr/p/hilver-plateau-bambou-80278287/) 
 > « Très beau plateau en bambou, moins cher que les plateaux Flexispot »
 
 ### Convertisseur de bureau
 
-- [Convertisseur de bureau assis debout](https://fr.flexispot.com/catalog/product/view/id/834/s/classicriser/category/25/) 
+- [Convertisseur de bureau assis debout](https://www.flexispot.fr/standing-desk-converters) 
 > « c’est super, je l’ai déposé sur le bureau chez mon client, ça évite de leur imposer un changement de mobilier, c’est transportable avec une voiture mais c'est lourd : 25 kg environ. Je l’avais récupéré pour chez moi post 1er confinement mais ça prend trop de place sur un bureau perso où tu as déjà du merdier de paperasse & co, par contre, au boulot, comme je n’ai rien sur mon bureau, c’est nickel »
 
 ## 🪑 Fauteuils
