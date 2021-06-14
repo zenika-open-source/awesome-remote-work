@@ -253,6 +253,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "shubik22",
+      "name": "Sam Sweeney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5737046?v=4",
+      "profile": "https://github.com/shubik22",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
