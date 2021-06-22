@@ -119,7 +119,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 - [Twitch](https://www.twitch.tv/)
 - [Open Broadcaster Software OBS](https://obsproject.com/fr)
-- [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/)
+- [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/) (see also [castr.io](https://castr.io), [polystreamer.com](https://polystreamer.com))
 - [Elgato Game Capture](https://www.elgato.com/fr)
 - [Blackmagic Design ATEM Mini - a live production switcher](https://www.blackmagicdesign.com/products/atemmini)
 
@@ -135,6 +135,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 - [SheetsCon 2020: Lessons Learned Running An Online Conference For 6,700 People](https://www.benlcollins.com/spreadsheets/sheetscon-2020-online-conference-lessons/)
 - [Hosting a Participant-First Conference in the Age of Corona - How To Do It](https://dev.to/mattstratton/hosting-a-participant-first-conference-in-the-age-of-corona-how-to-do-it-3p2j)
+- [How To Stream Your Zoom Meeting to Facebook, YouTube, & More](https://polystreamer.com/blog/stream-your-zoom-meeting-through-polystreamer)
 
 ### Tools to set-up digital events
 
