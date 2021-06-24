@@ -135,7 +135,6 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Virtual Events: 21 Powerful Tips For Hosting Successful Online Events](https://navidmoazzez.com/virtual-events/)
 - [SheetsCon 2020: Lessons Learned Running An Online Conference For 6,700 People](https://www.benlcollins.com/spreadsheets/sheetscon-2020-online-conference-lessons/)
 - [Hosting a Participant-First Conference in the Age of Corona - How To Do It](https://dev.to/mattstratton/hosting-a-participant-first-conference-in-the-age-of-corona-how-to-do-it-3p2j)
-- [How To Stream Your Zoom Meeting to Facebook, YouTube, & More](https://polystreamer.com/blog/stream-your-zoom-meeting-through-polystreamer)
 
 ### Tools to set-up digital events
 
