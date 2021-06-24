@@ -262,6 +262,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jcward",
+      "name": "Jeff Ward",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2192439?v=4",
+      "profile": "http://jcward.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
