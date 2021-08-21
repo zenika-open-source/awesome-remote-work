@@ -157,7 +157,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Wonder, Online events that are fun](https://www.wonder.me/)
 - [Trivvy, Team Building Trivia Games](https://www.trivvy.co/)
 - [Mibo - the fun way to meet!](https://getmibo.com/)
-
+- [flat.social - fun & playful virtual spaces](https://flat.social/)
 
 ## Jobs
 
