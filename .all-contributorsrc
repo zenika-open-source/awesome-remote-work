@@ -280,6 +280,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MENA1717",
+      "name": "MENA1717",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20733494?v=4",
+      "profile": "https://github.com/MENA1717",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
