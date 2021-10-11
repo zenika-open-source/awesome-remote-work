@@ -271,6 +271,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nazywamsiepawel",
+      "name": "pawel.io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334875?v=4",
+      "profile": "https://flat.social",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
