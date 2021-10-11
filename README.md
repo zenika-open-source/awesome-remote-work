@@ -1,6 +1,6 @@
 # Awesome Remote Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
@@ -217,6 +217,7 @@ To help organize your self and have a good position while working @home, [here i
     <td align="center"><a href="https://github.com/cycy-realbeats"><img src="https://avatars0.githubusercontent.com/u/57004116?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cycy-realbeats</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=cycy-realbeats" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://flat.social"><img src="https://avatars.githubusercontent.com/u/334875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pawel.io</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=nazywamsiepawel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/srevereault"><img src="https://avatars1.githubusercontent.com/u/1890300?v=4?s=100" width="100px;" alt=""/><br /><sub><b>srevereault</b></sub></a><br /><a href="https://github.com/zenika-open-source/awesome-remote-work/commits?author=srevereault" title="Documentation">📖</a></td>
   </tr>
 </table>
