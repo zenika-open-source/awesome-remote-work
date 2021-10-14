@@ -298,6 +298,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "olivierperez",
+      "name": "Olivier PEREZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/883959?v=4",
+      "profile": "http://twitch.tv/gnu_coding_cafe",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
