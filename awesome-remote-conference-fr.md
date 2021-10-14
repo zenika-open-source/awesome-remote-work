@@ -10,10 +10,10 @@ Une liste d'outils et matériels pour organiser des conférences à distance ou 
 ## Audio
 
 [RØDE Wireless Go II](https://fr.rode.com/microphones/wireless/wirelessgoiI)
-> « La référence des émetteurs/récépteurs pour que le speaker n'ait pas à s'embêter avec des cables. Super facile à setup, l'ordinateur le prend en compte comme une entrée audio classique. Possible d'ajouter un 2ème speaker ou un micro-main pour les questions du public. Bonus pour l'expérience "PRO" offerte aux speakers. »
+> « La référence des émetteurs/récépteurs pour que le speaker n'ait pas à s'embêter avec des câbles. Super facile à setup, l'ordinateur le prend en compte comme une entrée audio classique. Possible d'ajouter un 2ème speaker ou un micro-main pour les questions du public. Bonus pour l'expérience "PRO" offerte aux speakers. »
 
 [RØDE Lavalier GO Microphone](https://www.amazon.fr/R%C3%98DE-Microphones-LAVGO-Microphone-Lavalier/dp/B07WM65GTF)
-> « A brancher sur les Wireless Go pour une meilleure qualité et un meilleur confort des speakers. »
+> « À brancher sur les Wireless Go pour une meilleure qualité et un meilleur confort des speakers. »
 
 ## Call for Papers (CFP)
 
