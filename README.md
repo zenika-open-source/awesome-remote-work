@@ -58,6 +58,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ## Productivity
 
+- [Remote Resources from collaborationsuperpowers: Everything you need to get started working remotely!](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Edworking, One platform for you and your team](https://www.edworking.com)
 - [Use Together - Remote Pair Programming and Team Collaboration tool.](https://www.use-together.com/fr/)
 - [Remote Starter Kit by Hanno](https://www.remotestarterkit.com/)
