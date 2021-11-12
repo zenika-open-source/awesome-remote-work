@@ -10,7 +10,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
 
-## Contents
+## 📖 Contents
 
 - [Culture](#culture)
 - [Productivity](#productivity)
@@ -23,7 +23,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 - [Equipment](#equipment)
 
 
-## Culture
+## 🧠 Culture
 
 - [Remote by Basecamp](https://basecamp.com/books/remote) and [Group Chat:
 The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/guides/group-chat-problems)
@@ -56,7 +56,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Maintain connection with your team while working remote by Simon Sinek](https://simonsinek.com/commit/huddle-how-to/)
 - [Effective Home Office](https://effectivehomeoffice.com/)
 
-## Productivity
+## 💪 Productivity
 
 - [Remote Resources from collaborationsuperpowers: Everything you need to get started working remotely!](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Edworking, One platform for you and your team](https://www.edworking.com)
@@ -84,21 +84,21 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Bubbles, show what you're talking about](https://www.usebubbles.com/)
 
 
-## Automation
+## 🤖 Automation
 
 - [Geekbot, Asynchronous stand-up meetings in Slack](https://geekbot.com/)
 - [Donut, Connect serendipitously for virtual coffee, peer learning, DEI discussions, and more.](https://www.donut.com/)
 
 
-## Programming
+## 🧑‍💻 Programming
 
-### How to
+### ⚡️ How to
 
 - [How to collaborate like a pro in VS Code on Dev.to](https://dev.to/thegeoffstevens/how-to-collaborate-like-a-pro-in-vs-code-4iaj)
 - [Software Profession Resources - Mobbing and Pairing](https://trello.com/b/1lfMkCOh/software-profession-resources)
 - [Remote Mob Programming](https://www.remotemobprogramming.org)
 
-### Tools
+### ⚙️ Tools
 
 - [Floobits, Cross-editor real-time collaboration](https://floobits.com/)
 - [Keppler, Real-time code sharing for your lectures and presentations](https://brunosimon.github.io/keppler/)
@@ -108,7 +108,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Git Handover with mob](https://mob.sh)
 - [Code With Me by Jetbrains](https://plugins.jetbrains.com/plugin/14896-code-with-me)
 
-## Education
+## 🎓 Education
 
 - [Code.org - Learn Computer Science](https://studio.code.org/courses)
 - [Online training with Strigo](https://strigo.io/)
@@ -116,19 +116,9 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [GitHub Classroom](https://classroom.github.com/)
 - [12 Famous Museums And Galleries You Can Visit Virtually From Your Own Couch](https://www.boredpanda.com/famous-museums-offering-virtual-tours/)
 
+## 📺 Streaming & Events
 
-## Streaming
-
-- [Twitch](https://www.twitch.tv/)
-- [Open Broadcaster Software OBS](https://obsproject.com/fr)
-- [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/) (see also [castr.io](https://castr.io), [polystreamer.com](https://polystreamer.com))
-- [Elgato Game Capture](https://www.elgato.com/fr)
-- [Blackmagic Design ATEM Mini - a live production switcher](https://www.blackmagicdesign.com/products/atemmini)
-
-
-## Events
-
-### How to organize digital events
+### 📆 How to organize digital events
 
 - [How we moved our IWD conference online in 2 days](https://medium.com/gdgeurope/how-we-moved-our-iwd-conference-online-in-2-days-e00110a444a3)
 - [How to: Organize a Full-remote Workshop by GDG Lisbon](https://medium.com/@GDGLisbon/how-to-organize-a-full-remote-workshop-6f0c0dc8b141)
@@ -138,13 +128,15 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [SheetsCon 2020: Lessons Learned Running An Online Conference For 6,700 People](https://www.benlcollins.com/spreadsheets/sheetscon-2020-online-conference-lessons/)
 - [Hosting a Participant-First Conference in the Age of Corona - How To Do It](https://dev.to/mattstratton/hosting-a-participant-first-conference-in-the-age-of-corona-how-to-do-it-3p2j)
 
-### Tools to set-up digital events
+### 🖥 Tools to set-up digital events
 
-- [StreamYard](https://streamyard.com/)
+- [StreamYard](https://streamyard.com/) 
+- [Twitch](https://www.twitch.tv/)
+- [Open Broadcaster Software OBS](https://obsproject.com/fr)
 - [Livestorm](https://livestorm.co/fr/)
 - [Remo](https://remo.co/)
 - [Hopin](https://hopin.to/)
-- [Restream](https://restream.io/)
+- [Restream allows you to stream live to 30+ social platforms at once.](https://restream.io/) (see also [castr.io](https://castr.io), [polystreamer.com](https://polystreamer.com))
 - [Tame](https://tame.events/virtual-conference/)
 - [HeySummit](https://heysummit.com/)
 - [In the Ether](https://intheether.xyz/)
@@ -161,7 +153,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Mibo - the fun way to meet!](https://getmibo.com/)
 - [flat.social - fun & playful virtual spaces](https://flat.social/)
 
-## Jobs
+## 🧳 Jobs
 
 - [Remote|Ok, Today's remote jobs](https://remoteok.io/)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
@@ -172,9 +164,12 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 - [Remotesome](https://www.remotesome.com)
 
-## Equipment
+## 🏡 Equipment
 
 To help organize your self and have a good position while working @home, [here is a list of tested equipment by zenika Consultant](awesome-remote-equipment-fr.md)
+- [Elgato Game Capture](https://www.elgato.com/fr)
+- [Blackmagic Design ATEM Mini - a live production switcher](https://www.blackmagicdesign.com/products/atemmini)
+
 
 # ✨ Contributors
 
