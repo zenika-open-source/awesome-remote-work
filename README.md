@@ -17,8 +17,7 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 - [Automation](#automation)
 - [Programming](#programming)
 - [Education](#education)
-- [Streaming](#streaming)
-- [Events](#events)
+- [Streaming](#streaming--events)
 - [Jobs](#jobs)
 - [Equipment](#equipment)
 
