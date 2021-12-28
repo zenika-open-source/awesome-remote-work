@@ -151,6 +151,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Trivvy, Team Building Trivia Games](https://www.trivvy.co/)
 - [Mibo - the fun way to meet!](https://getmibo.com/)
 - [flat.social - fun & playful virtual spaces](https://flat.social/)
+- [Eventfinity, The Best All-In-One Hybrid Event Platform](https://www.eventfinity.co/)
 
 ## 🧳 Jobs
 
