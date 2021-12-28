@@ -152,6 +152,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Mibo - the fun way to meet!](https://getmibo.com/)
 - [flat.social - fun & playful virtual spaces](https://flat.social/)
 - [Kumospace, Make meaningful connections in unforgettable virtual spaces](https://www.kumospace.com/)
+- [Eventfinity, The Best All-In-One Hybrid Event Platform](https://www.eventfinity.co/)
 
 ## 🧳 Jobs
 
