@@ -164,6 +164,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Working - What it is, what it can be for your team and how to achieve it](https://github.com/msg-DAVID-GmbH/RemoteWorking)
 - [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 - [Remotesome](https://www.remotesome.com)
+- [Himalayas](https://himalayas.app)
 
 ## 🏡 Equipment
 
