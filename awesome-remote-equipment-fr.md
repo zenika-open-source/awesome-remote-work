@@ -90,6 +90,16 @@
 
 ##  🎙 Micros et 🎧 casques
 
+2 choix principaux s'opposent pour son choix d'entrée/sortie audio :
+
+### Écouteurs/Casque fermé(s)
+Pour éviter de déranger son entourage (ex : open space), il est préférable d'utiliser des écouteurs ou un casque audio. Permet aussi de supprimer tout écho, vos interlocuteurs vous remercieront. Dans cette sous catégorie, il est possible de choisir des écouteurs filaires ou bluetooth. Le bluetooth étant un peu instable, on vous conseille plutôt le filaire. Même les écouteurs de base de votre smartphone vous rendront souvent plus intelligible que le matériel de base de l'ordinateur. Il est aussi possible d'utiliser un micro externe avec un retour.
+
+### Enceintes + micro
+Si l'on préfère le confort de ne pas avoir d'écouteur ou de casque, il est possible d'utiliser des enceintes. Cette solution est à éviter car captera plus les bruits extérieurs, notamment le risque d'écho est donc assez important. Le matériel évolue pour éliminer les bruits externes de manière logicielle mais rien ne vaut un micro plus proche de la bouche.
+
+Est listé ici tout type de matériel correspondant à n'importe quel usage.
+
 - [Micro USB avec bras articulé](https://www.tonormic.com/products/tonor-q9-usb-microphone-kit) 
 > « Petit prix, et très pratique à l'usage, fonctionne sur Linux. »
 - [Micro-casque Gaming Logitech G432 7.1](https://www.fnac.com/Micro-casque-Gaming-Logitech-G432-7-1-Noir-avec-Son-Surround-7-1/a13292528/w-4) 
