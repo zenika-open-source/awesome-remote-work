@@ -307,6 +307,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "walshhub",
+      "name": "Jack Walsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16569888?v=4",
+      "profile": "https://himalayas.app",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "gitmoji",
