@@ -119,6 +119,8 @@ Est listé ici tout type de matériel correspondant à n'importe quel usage.
 > « Je l'utilise depuis de nombreuses années, initialement pour le jeu et maintenant pour la visio-conf. Il a notamment l'intérêt d'être également Bluetooth, je peux donc aussi l'utiliser sur mon téléphone. Et point non négligeable : il continue à fonctionner lorsqu'il se recharge (ce n'est pas le cas de tous les casques sans fil malheureusement).»
 - [Jabra Evolve 30 UC Stereo](https://www.amazon.fr/gp/product/B01K6TUC20)
 > « Jabra est très réputé pour ses casques audio et vous allez vite comprendre pourquoi. Très confortable, simple à utiliser, de bonne qualité. Seul le réglage de la courbure du micro est un peu dure. Le prix peu paraître un peu élevé, mais c'est le minimum pour être à l'aise pendant les réunions qui peuvent durer 2h. »
+- [Sony WH-CH700N](https://www.sony.fr/electronics/casque-bandeau/wh-ch700n)
+> « Je l'utilise en formation sur des périodes prolongées. J'apprécie le confort des écouteurs qui entourent l'oreille plutôt qu'appuyer dessus et l'isolation qu'il peut procurer. »
 
 ## 🛠 Autres accessoires
 
