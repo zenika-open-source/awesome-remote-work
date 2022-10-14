@@ -61,7 +61,6 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Edworking, One platform for you and your team](https://www.edworking.com)
 - [Use Together - Remote Pair Programming and Team Collaboration tool.](https://www.use-together.com/fr/)
 - [Remote Starter Kit by Hanno](https://www.remotestarterkit.com/)
-- [Remote.tools](https://www.remote.tools/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
 - [Google Meet Grid View to show everyone in the Meet](https://chrome.google.com/webstore/detail/google-meet-grid-view/bjkegbgpfgpikgkfidhcihhiflbjgfic)
 - [Microsoft's solution for COVID-19 is a free Teams subscription for six months
