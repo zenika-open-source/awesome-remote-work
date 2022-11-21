@@ -164,6 +164,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 - [Remotesome](https://www.remotesome.com)
 - [Himalayas](https://himalayas.app)
+- [Startup Jobs](https://startup.jobs/remote)
 
 ## 🏡 Equipment
 
