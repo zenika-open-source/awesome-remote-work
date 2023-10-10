@@ -121,6 +121,8 @@ Est listé ici tout type de matériel correspondant à n'importe quel usage.
 > « Jabra est très réputé pour ses casques audio et vous allez vite comprendre pourquoi. Très confortable, simple à utiliser, de bonne qualité. Seul le réglage de la courbure du micro est un peu dure. Le prix peu paraître un peu élevé, mais c'est le minimum pour être à l'aise pendant les réunions qui peuvent durer 2h. »
 - [Sony WH-CH700N](https://www.sony.fr/electronics/casque-bandeau/wh-ch700n)
 > « Je l'utilise en formation sur des périodes prolongées. J'apprécie le confort des écouteurs qui entourent l'oreille plutôt qu'appuyer dessus et l'isolation qu'il peut procurer. »
+- [Bose Headphones 700](https://amzn.eu/d/gWX81TE)
+> « Une très bonne réduction de bruit et qualité audio, un excellent confort même pendant 4 heures, une bonne intégration sur diverses applications d'appel, le passage d'un appareil jumelé à un autre et une bonne batterie. »
 
 ## 🛠 Autres accessoires
 
