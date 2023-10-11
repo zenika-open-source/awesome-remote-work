@@ -1,4 +1,21 @@
 {
   "projectName": "awesome-remote-work",
-  "projectOwner": "zenika-open-source"
+  "projectOwner": "zenika-open-source",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "bengeois",
+      "name": "Benjamin Bourgeois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20949060?v=4",
+      "profile": "https://www.bbourgeois.dev",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
