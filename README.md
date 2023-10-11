@@ -12,14 +12,14 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 
 ## 📖 Contents
 
-- [Culture](#culture)
-- [Productivity](#productivity)
-- [Automation](#automation)
-- [Programming](#programming)
-- [Education](#education)
-- [Streaming](#streaming--events)
-- [Jobs](#jobs)
-- [Equipment](#equipment)
+- [🧠 Culture](#🧠-culture)
+- [💪 Productivity](#💪-productivity)
+- [🤖 Automation](#🤖-automation)
+- [🧑‍💻 Programming](#🧑‍💻-programming)
+- [🎓 Education](#🎓-education)
+- [📺 Streaming \& Events](#📺-streaming--events)
+- [🧳 Jobs](#🧳-jobs)
+- [🏡 Equipment](#🏡-equipment)
 
 
 ## 🧠 Culture
