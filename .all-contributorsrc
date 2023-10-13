@@ -5,7 +5,7 @@
     "README.md"
   ],
   "commitType": "docs",
-  "commitConvention": "gitmoji",
+  "commitConvention": "angular",
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": true,
   "contributors": [
