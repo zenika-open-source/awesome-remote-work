@@ -1,6 +1,6 @@
 # Awesome Remote Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 😎 A collaborative list of great resources about remote work. Feel free to contribute to this on-going list.
@@ -223,10 +223,11 @@ To help organize your self and have a good position while working @home, [here i
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shubik22"><img src="https://avatars.githubusercontent.com/u/5737046?v=4?s=100" width="100px;" alt="Sam Sweeney"/><br /><sub><b>Sam Sweeney</b></sub></a><br /><a href="#doc-shubik22" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://simonharrer.com"><img src="https://avatars3.githubusercontent.com/u/375693?v=4?s=100" width="100px;" alt="Simon Harrer"/><br /><sub><b>Simon Harrer</b></sub></a><br /><a href="#doc-simonharrer" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sylvain-Delafoy"><img src="https://avatars.githubusercontent.com/u/9251589?v=4?s=100" width="100px;" alt="Sylvain Delafoy"/><br /><sub><b>Sylvain Delafoy</b></sub></a><br /><a href="#doc-Sylvain-Delafoy" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://xvrc.net"><img src="https://avatars.githubusercontent.com/u/291512?v=4?s=100" width="100px;" alt="Xavier"/><br /><sub><b>Xavier</b></sub></a><br /><a href="#doc-angezanetti" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://yann-bertrand.fr/"><img src="https://avatars.githubusercontent.com/u/5855339?v=4?s=100" width="100px;" alt="Yann Bertrand"/><br /><sub><b>Yann Bertrand</b></sub></a><br /><a href="#doc-yannbertrand" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cycy-realbeats"><img src="https://avatars0.githubusercontent.com/u/57004116?v=4?s=100" width="100px;" alt="cycy-realbeats"/><br /><sub><b>cycy-realbeats</b></sub></a><br /><a href="#doc-cycy-realbeats" title="Documentation">📖</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cycy-realbeats"><img src="https://avatars0.githubusercontent.com/u/57004116?v=4?s=100" width="100px;" alt="cycy-realbeats"/><br /><sub><b>cycy-realbeats</b></sub></a><br /><a href="#doc-cycy-realbeats" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://flat.social"><img src="https://avatars.githubusercontent.com/u/334875?v=4?s=100" width="100px;" alt="pawel.io"/><br /><sub><b>pawel.io</b></sub></a><br /><a href="#doc-nazywamsiepawel" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/srevereault"><img src="https://avatars1.githubusercontent.com/u/1890300?v=4?s=100" width="100px;" alt="srevereault"/><br /><sub><b>srevereault</b></sub></a><br /><a href="#doc-srevereault" title="Documentation">📖</a></td>
     </tr>
