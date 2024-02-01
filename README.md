@@ -166,6 +166,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Himalayas](https://himalayas.app)
 - [Startup Jobs](https://startup.jobs/remote)
 - [RemoteFR](https://remotefr.com)
+- [OkJob](https://okjob.io)
 
 ## 🏡 Equipment
 
