@@ -81,6 +81,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Taskade - All-in-one organization & collaboration platform offering free upgrades during COVID-19](https://taskade.com/)
 - [Bubbles, show what you're talking about](https://www.usebubbles.com/)
 - [Work Adventure, meetups and virtual office as a 2D game](https://workadventu.re/)
+- [Study Near Me, Find laptop-friendly cafes and workspaces for remote work across the US](https://studynearme.com/)
 
 ## 🤖 Automation
 
