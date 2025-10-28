@@ -54,6 +54,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [8 tips for getting it done when working from home by Gsuite / Google](https://www.blog.google/products/g-suite/8-tips-for-working-from-home/)
 - [Maintain connection with your team while working remote by Simon Sinek](https://simonsinek.com/commit/huddle-how-to/)
 - [Effective Home Office](https://effectivehomeoffice.com/)
+- [The Remote Product Manager's Playbook](https://www.productcompass.pm/p/the-remote-product-manager-playbook)
 
 ## 💪 Productivity
 
