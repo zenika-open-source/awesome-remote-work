@@ -12,14 +12,22 @@ Available languages: [French :fr: - Comment faire du Télétravail ?](https://gi
 
 ## 📖 Contents
 
-- [🧠 Culture](#🧠-culture)
-- [💪 Productivity](#💪-productivity)
-- [🤖 Automation](#🤖-automation)
-- [🧑‍💻 Programming](#🧑‍💻-programming)
-- [🎓 Education](#🎓-education)
-- [📺 Streaming \& Events](#📺-streaming--events)
-- [🧳 Jobs](#🧳-jobs)
-- [🏡 Equipment](#🏡-equipment)
+- [Awesome Remote Work ](#awesome-remote-work-)
+  - [📖 Contents](#-contents)
+  - [🧠 Culture](#-culture)
+  - [💪 Productivity](#-productivity)
+  - [🤖 Automation](#-automation)
+  - [🧑‍💻 Programming](#-programming)
+    - [⚡️ How to](#️-how-to)
+    - [⚙️ Tools](#️-tools)
+  - [🎓 Education](#-education)
+  - [📺 Streaming \& Events](#-streaming--events)
+    - [📆 How to organize digital events](#-how-to-organize-digital-events)
+    - [🖥 Tools to set-up digital events](#-tools-to-set-up-digital-events)
+  - [🧳 Jobs](#-jobs)
+  - [🏡 Equipment](#-equipment)
+- [✨ Contributors](#-contributors)
+- [🎉 Show your support](#-show-your-support)
 
 
 ## 🧠 Culture
@@ -157,6 +165,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 ## 🧳 Jobs
 
 - [Remote|Ok, Today's remote jobs](https://remoteok.io/)
+- [RemoteYeah, Remote Software Developer jobs](https://remoteyeah.com/)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 - [ProductHunt](https://www.producthunt.com/jobs?remote_ok=true)
