@@ -57,7 +57,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [The Remote Product Manager's Playbook](https://www.productcompass.pm/p/the-remote-product-manager-playbook)
 
 ## 💪 Productivity
-
+- [Notah.ai - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant](https://notah.ai)
 - [Remote Resources from collaborationsuperpowers: Everything you need to get started working remotely!](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Edworking, One platform for you and your team](https://www.edworking.com)
 - [Use Together - Remote Pair Programming and Team Collaboration tool.](https://www.use-together.com/fr/)
