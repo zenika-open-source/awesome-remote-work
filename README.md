@@ -55,6 +55,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Maintain connection with your team while working remote by Simon Sinek](https://simonsinek.com/commit/huddle-how-to/)
 - [Effective Home Office](https://effectivehomeoffice.com/)
 - [The Remote Product Manager's Playbook](https://www.productcompass.pm/p/the-remote-product-manager-playbook)
+- [Remote Excellence](https://remote-excellence.guide) - 40 principles for running remote-first teams, covering trust, async communication, tools, hiring, and scaling
 
 ## 💪 Productivity
 
@@ -129,7 +130,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ### 🖥 Tools to set-up digital events
 
-- [StreamYard](https://streamyard.com/) 
+- [StreamYard](https://streamyard.com/)
 - [Twitch](https://www.twitch.tv/)
 - [Open Broadcaster Software OBS](https://obsproject.com/fr)
 - [Livestorm](https://livestorm.co/fr/)
