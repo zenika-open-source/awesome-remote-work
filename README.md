@@ -98,6 +98,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Mob Programming](https://www.remotemobprogramming.org)
 
 ### ⚙️ Tools
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription for remote teams.
 
 - [Floobits, Cross-editor real-time collaboration](https://floobits.com/)
 - [Keppler, Real-time code sharing for your lectures and presentations](https://brunosimon.github.io/keppler/)
