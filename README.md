@@ -168,6 +168,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 - [Remote|Ok, Today's remote jobs](https://remoteok.io/)
 - [RemoteYeah, Remote Software Developer jobs](https://remoteyeah.com/)
+- [Remote Vibe Coding Jobs - Remote developer jobs at AI-native, async-first companies](https://remotevibecodingjobs.com)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 - [ProductHunt](https://www.producthunt.com/jobs?remote_ok=true)
