@@ -176,6 +176,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 - [Remotesome](https://www.remotesome.com)
 - [Himalayas](https://himalayas.app)
+- [SailOnChain](https://sailonchain.com) - Crypto & Web3 remote job board with 1,400+ positions from ~2,000 blockchain companies
 - [Startup Jobs](https://startup.jobs/remote)
 - [RemoteFR](https://remotefr.com)
 
