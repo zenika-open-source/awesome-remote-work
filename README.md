@@ -180,6 +180,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Startup Jobs](https://startup.jobs/remote)
 - [4DayJob](https://4dayjob.com) - Job board for 4-day work week positions across all industries, with 1,500+ remote and flexible jobs
 - [RemoteFR](https://remotefr.com)
+- [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers
 
 ## 🏡 Equipment
 
