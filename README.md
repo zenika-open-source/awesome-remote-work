@@ -182,6 +182,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [4DayJob](https://4dayjob.com) - Job board for 4-day work week positions across all industries, with 1,500+ remote and flexible jobs
 - [RemoteFR](https://remotefr.com)
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+- [web3vacancy](https://web3vacancy.com) - Remote-first web3 and crypto job board aggregating 2,400+ live roles across DeFi, L2s, wallets, security, and infrastructure. Updated every 5 minutes.
 
 ## 🏡 Equipment
 
