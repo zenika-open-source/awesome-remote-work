@@ -183,6 +183,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [RemoteFR](https://remotefr.com)
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - AI and ML job board with public REST API. Aggregates roles from 55+ ATS sources including Greenhouse, Lever, and Ashby. Filter by remote/hybrid/onsite.
+- [Jobaholic](https://jobaholic.app) - AI job application automation. Aggregates remote roles across 8 ATS sources (Greenhouse, Lever, Workday, Ashby, Rippling, ADP MyJobs, Indeed, Phenom) and auto-fills the application form with a per-JD AI cover letter via Chrome extension. Free tier + Pro $25/month with 3-day trial.
 
 ## 🏡 Equipment
 
