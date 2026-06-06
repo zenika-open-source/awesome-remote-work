@@ -172,6 +172,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Vibe Coding Jobs - Remote developer jobs at AI-native, async-first companies](https://remotevibecodingjobs.com)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [Freaking Nomads](https://freakingnomads.com/) - Curated digital nomad community and remote-work directory.
 - [ProductHunt](https://www.producthunt.com/jobs?remote_ok=true)
 - [Remote Work](https://github.com/fjbelchi/RemoteWork)
 - [Remote Working - What it is, what it can be for your team and how to achieve it](https://github.com/msg-DAVID-GmbH/RemoteWorking)
