@@ -183,6 +183,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [RemoteFR](https://remotefr.com)
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - AI and ML job board with public REST API. Aggregates roles from 55+ ATS sources including Greenhouse, Lever, and Ashby. Filter by remote/hybrid/onsite.
+- [Superhighway Talent Research Agent](https://superhighway.walls.sh/guides/talent-research-agent) - Python agent that researches job-market demand, salary ranges, key skills, and hiring trends for any role using live web search. Generates structured talent briefs — useful for remote job seekers benchmarking pay and skills, and for distributed teams sourcing talent. Pay-per-call, no signup.
 
 ## 🏡 Equipment
 
