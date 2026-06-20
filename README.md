@@ -64,6 +64,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Effective Home Office](https://effectivehomeoffice.com/)
 - [The Remote Product Manager's Playbook](https://www.productcompass.pm/p/the-remote-product-manager-playbook)
 - [Remote Excellence](https://remote-excellence.guide) - 40 principles for running remote-first teams, covering trust, async communication, tools, hiring, and scaling
+- [How to Start a One Person Company](https://onepersoncompany.com/how-to-start-a-one-person-company) - An operator's guide to running a remote, one-person business with AI: tech stack, automation, and async-first workflows for a team of one
 
 ## 💪 Productivity
 - [Notah.ai - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant](https://notah.ai)
