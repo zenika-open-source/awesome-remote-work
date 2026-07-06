@@ -167,6 +167,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ## 🧳 Jobs
 
+- [Meridian, remote tech jobs matched to your timezone for US, LATAM and EU](https://meridianremote.com)
 - [Remote|Ok, Today's remote jobs](https://remoteok.io/)
 - [RemoteYeah, Remote Software Developer jobs](https://remoteyeah.com/)
 - [Remote Vibe Coding Jobs - Remote developer jobs at AI-native, async-first companies](https://remotevibecodingjobs.com)
