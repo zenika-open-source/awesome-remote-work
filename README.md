@@ -143,6 +143,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [StreamYard](https://streamyard.com/)
 - [Twitch](https://www.twitch.tv/)
 - [Open Broadcaster Software OBS](https://obsproject.com/fr)
+- [CountLink](https://countlink.app) - Free, no-signup shared countdown timer. Set a duration or a target time, copy the link, and every device that opens it counts down to the exact same instant — handy for a synced "starting in..." countdown before a stream or webinar begins.
 - [Livestorm](https://livestorm.co/fr/)
 - [Remo](https://remo.co/)
 - [Hopin](https://hopin.to/)
