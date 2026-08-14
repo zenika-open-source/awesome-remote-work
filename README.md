@@ -117,6 +117,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [RunJS, A playground for JavaScript and TypeScript](https://runjs.dev/)
 - [Git Handover with mob](https://mob.sh)
 - [Code With Me by Jetbrains](https://plugins.jetbrains.com/plugin/14896-code-with-me)
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=zenika_awesome_remote_work&utm_content=programming_tools) - Free browser toolkit for freelancers to define project scope, set quote boundaries, and document change requests.
 
 ## 🎓 Education
 
