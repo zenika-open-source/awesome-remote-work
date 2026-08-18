@@ -73,6 +73,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Starter Kit by Hanno](https://www.remotestarterkit.com/)
 - [Gsuite: Extending Hangouts Meet premium features to all G Suite customers through July 1, 2020](https://gsuiteupdates.googleblog.com/2020/03/enabling-hangouts-meet-premium-features.html)
 - [Google Meet Grid View to show everyone in the Meet](https://chrome.google.com/webstore/detail/google-meet-grid-view/bjkegbgpfgpikgkfidhcihhiflbjgfic)
+- [MeetMoves, use any video or GIF as your Google Meet background, free and no OBS or virtual camera needed](https://chromewebstore.google.com/detail/meetmoves/pcihfjkbfcfademdaplkhmgngdlkfepg)
 - [Microsoft's solution for COVID-19 is a free Teams subscription for six months
 ](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Slack, platform for team communication](https://slack.com/)
