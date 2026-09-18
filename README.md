@@ -179,6 +179,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Working - What it is, what it can be for your team and how to achieve it](https://github.com/msg-DAVID-GmbH/RemoteWorking)
 - [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 - [Remotesome](https://www.remotesome.com)
+- [SideQuest Board](https://www.sidequestboard.app/) - Freelance gigs aggregated from public communities into one curated feed
 - [Himalayas](https://himalayas.app)
 - [Startup Jobs](https://startup.jobs/remote)
 - [4DayJob](https://4dayjob.com) - Job board for 4-day work week positions across all industries, with 1,500+ remote and flexible jobs
