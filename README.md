@@ -110,6 +110,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 ### ⚙️ Tools
 
+- [BusinessOS, Encrypted offline-first invoicing and accounting for remote workers — voice-to-invoice, WhatsApp send, multi-region tax. Free during limited early access.](https://businessos.biz)
 - [Floobits, Cross-editor real-time collaboration](https://floobits.com/)
 - [Keppler, Real-time code sharing for your lectures and presentations](https://brunosimon.github.io/keppler/)
 - [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
