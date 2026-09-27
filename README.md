@@ -185,6 +185,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [RemoteFR](https://remotefr.com)
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - AI and ML job board with public REST API. Aggregates roles from 55+ ATS sources including Greenhouse, Lever, and Ashby. Filter by remote/hybrid/onsite.
+- [Remote Jobs API](https://earnnova-dev.github.io/remote-jobs-api/) - Free API + Python library normalizing 5 remote job boards (Remotive, RemoteOK, Jobicy, Work From Home, Hacker News) into one clean schema with skills-based fit scoring.
 - [RemoteJobs.lat](https://remotejobs.lat) - Remote job board for Latin American tech professionals.
 - [Jobs in JS](https://jobsinjs.com/remote-javascript-jobs/) - Remote JavaScript jobs.
 
