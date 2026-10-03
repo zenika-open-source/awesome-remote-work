@@ -98,6 +98,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Donut, Connect serendipitously for virtual coffee, peer learning, DEI discussions, and more.](https://www.donut.com/)
 - [SupBot, Conduct stand-up meetings in Slack, Teams, Webex](https://www.supbot.com/)
 - [Overloop CLI, AI-powered outbound engine. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.](https://github.com/sortlist/overloop-cli)
+- [Eodly, Async daily check-ins in Slack, Telegram or Discord, checked against GitHub and Linear](https://eodly.io/)
 
 
 ## 🧑‍💻 Programming
