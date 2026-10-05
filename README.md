@@ -66,6 +66,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Remote Excellence](https://remote-excellence.guide) - 40 principles for running remote-first teams, covering trust, async communication, tools, hiring, and scaling
 
 ## 💪 Productivity
+- [AI Group Call](https://aigroupcall.app) - Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items.
 - [Notah.ai - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant](https://notah.ai)
 - [Remote Resources from collaborationsuperpowers: Everything you need to get started working remotely!](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Edworking, One platform for you and your team](https://www.edworking.com)
