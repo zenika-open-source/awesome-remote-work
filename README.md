@@ -86,6 +86,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [The Collaboration Superpowers](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Excalidraw, free, feature-filled and live collaboration mode tool for quickly mocking up UIs](https://excalidraw.com/)
 - [Calendly helps you schedule meetings without the back-and-forth emails](https://calendly.com/)
+- [OpenCal gives you a free scheduling link that shows your open times across Google, Microsoft and iCloud calendars](https://opencal.link/)
 - [Matrix - An open network for secure, decentralized communication](https://matrix.org/)
 - [Dotstorming - A space for real-time group brainstorming and decision making](https://dotstorming.com/)
 - [Taskade - All-in-one organization & collaboration platform offering free upgrades during COVID-19](https://taskade.com/)
