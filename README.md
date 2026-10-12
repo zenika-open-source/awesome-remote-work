@@ -187,6 +187,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [AI Dev Jobs](https://aidevboard.com) - AI and ML job board with public REST API. Aggregates roles from 55+ ATS sources including Greenhouse, Lever, and Ashby. Filter by remote/hybrid/onsite.
 - [RemoteJobs.lat](https://remotejobs.lat) - Remote job board for Latin American tech professionals.
 - [Jobs in JS](https://jobsinjs.com/remote-javascript-jobs/) - Remote JavaScript jobs.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote and at-home robot-training work (video capture for AI training, remote teleoperation, data collection), by applicant country, with the pay each posts.
 
 ## 🏡 Equipment
 
