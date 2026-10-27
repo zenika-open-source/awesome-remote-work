@@ -91,6 +91,8 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Taskade - All-in-one organization & collaboration platform offering free upgrades during COVID-19](https://taskade.com/)
 - [Bubbles, show what you're talking about](https://www.usebubbles.com/)
 - [Work Adventure, meetups and virtual office as a 2D game](https://workadventu.re/)
+- [puppetcam, an open-source cartoon avatar that shows up as your webcam in Meet, Teams and Zoom, running locally](https://github.com/cesaredavidepace/puppetcam)
+
 
 ## 🤖 Automation
 
