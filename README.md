@@ -64,6 +64,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Effective Home Office](https://effectivehomeoffice.com/)
 - [The Remote Product Manager's Playbook](https://www.productcompass.pm/p/the-remote-product-manager-playbook)
 - [Remote Excellence](https://remote-excellence.guide) - 40 principles for running remote-first teams, covering trust, async communication, tools, hiring, and scaling
+- [How to check visa requirements for a team offsite by Altavelo](https://altavelo.eu/blog/how-to-check-visa-requirements-for-a-team-offsite)
 
 ## 💪 Productivity
 - [Notah.ai - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant](https://notah.ai)
