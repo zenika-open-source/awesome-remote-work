@@ -180,6 +180,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Toptal](https://www.toptal.com/#accept-only-verified-software-engineers-now)
 - [Remotesome](https://www.remotesome.com)
 - [Himalayas](https://himalayas.app)
+- [Jaabz](https://jaabz.com) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Startup Jobs](https://startup.jobs/remote)
 - [4DayJob](https://4dayjob.com) - Job board for 4-day work week positions across all industries, with 1,500+ remote and flexible jobs
 - [RemoteFR](https://remotefr.com)
