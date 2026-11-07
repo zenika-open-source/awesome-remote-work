@@ -165,6 +165,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [flat.social - fun & playful virtual spaces](https://flat.social/)
 - [Kumospace, Make meaningful connections in unforgettable virtual spaces](https://www.kumospace.com/)
 - [Eventfinity, The Best All-In-One Hybrid Event Platform](https://www.eventfinity.co/)
+- [GlowCam](https://imagera.ai/glowcam) - Chrome extension with a natural-looking beauty filter for browser video calls (Meet, Zoom, Teams, Webex, Whereby, Discord), processed on your device; 7-day trial, then paid.
 
 ## 🧳 Jobs
 
