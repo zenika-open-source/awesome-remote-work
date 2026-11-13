@@ -161,6 +161,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Imagina - The application of connected places](https://imagina.io/)
 - [Wonder, Online events that are fun](https://www.wonder.me/)
 - [Trivvy, Team Building Trivia Games](https://www.trivvy.co/)
+- [Secret Santa Generator](https://secretsantagenerator.xyz/virtual-secret-santa/) - Free Secret Santa draw for remote teams: everyone gets a private link and can add a shipping address that only their Secret Santa sees. No sign-up or emails, plus a reveal-call time table across time zones.
 - [Mibo - the fun way to meet!](https://getmibo.com/)
 - [flat.social - fun & playful virtual spaces](https://flat.social/)
 - [Kumospace, Make meaningful connections in unforgettable virtual spaces](https://www.kumospace.com/)
