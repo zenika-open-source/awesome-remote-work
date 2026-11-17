@@ -188,6 +188,8 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [RemoteJobs.lat](https://remotejobs.lat) - Remote job board for Latin American tech professionals.
 - [Jobs in JS](https://jobsinjs.com/remote-javascript-jobs/) - Remote JavaScript jobs.
 
+- [OpenRadar](https://openradar.fun) - Open-source search engine aggregating tech jobs and freelance contracts across Telegram, RSS feeds, HeadHunter, and career sites with salary analytics and public API.
+
 ## 🏡 Equipment
 
 To help organize your self and have a good position while working @home, [here is a list of tested equipment by zenika Consultant](awesome-remote-equipment-fr.md)
