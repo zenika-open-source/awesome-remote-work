@@ -91,6 +91,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Taskade - All-in-one organization & collaboration platform offering free upgrades during COVID-19](https://taskade.com/)
 - [Bubbles, show what you're talking about](https://www.usebubbles.com/)
 - [Work Adventure, meetups and virtual office as a 2D game](https://workadventu.re/)
+- [Pikoo, free shared Pomodoro timer for remote teams: one link, one synced timer, no sign-up](https://pikoo-nu.vercel.app/)
 
 ## 🤖 Automation
 
