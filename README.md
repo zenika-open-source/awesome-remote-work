@@ -165,6 +165,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [flat.social - fun & playful virtual spaces](https://flat.social/)
 - [Kumospace, Make meaningful connections in unforgettable virtual spaces](https://www.kumospace.com/)
 - [Eventfinity, The Best All-In-One Hybrid Event Platform](https://www.eventfinity.co/)
+- [Bullshit](https://bullshit.wtf/video-call-party-game?via=gh-remotework) - Free bluffing trivia game for a team on a video call: everyone plays on their own phone, no sign-up, 2 to 12 players.
 
 ## 🧳 Jobs
 
