@@ -186,7 +186,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - AI and ML job board with public REST API. Aggregates roles from 55+ ATS sources including Greenhouse, Lever, and Ashby. Filter by remote/hybrid/onsite.
 - [RemoteJobs.lat](https://remotejobs.lat) - Remote job board for Latin American tech professionals.
-- [Jobs Every Hour](https://jobseveryhour.com/remote/) - Remote jobs read every hour from employers' own career pages (Greenhouse, Lever, Ashby and more), closed jobs removed, with the countries each remote job is open to.
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - Remote jobs read every hour from employers' own career pages (Greenhouse, Lever, Ashby and more), with closed jobs removed and Apply on the employer's own page.
 - [Jobs in JS](https://jobsinjs.com/remote-javascript-jobs/) - Remote JavaScript jobs.
 
 ## 🏡 Equipment
