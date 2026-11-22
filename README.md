@@ -193,6 +193,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 To help organize your self and have a good position while working @home, [here is a list of tested equipment by zenika Consultant](awesome-remote-equipment-fr.md)
 - [Elgato Game Capture](https://www.elgato.com/fr)
 - [Blackmagic Design ATEM Mini - a live production switcher](https://www.blackmagicdesign.com/products/atemmini)
+- [setupdoc](https://setupdoc.com/) - Free browser check of your microphone, webcam and speakers before a video call, with a verdict and fix steps; nothing is recorded.
 
 
 # ✨ Contributors
